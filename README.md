@@ -53,6 +53,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 
 ## Generators
 
+- [Browser SOP Builder](https://max-agent-hub.github.io/browser-sop-builder/) - Build and download structured SOPs as Markdown without sending entries to a server.
 - [Tool Name](https://example.com) - One-line description of what it does.
 
 ## Contributing

@@ -46,6 +46,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 
 ## Image Tools
 
+- [Quick Image Kit](https://quickimagekit.com/compress-image) - Compress and resize images in the browser without signup.
 - [Tool Name](https://example.com) - One-line description of what it does.
 
 ## Generators

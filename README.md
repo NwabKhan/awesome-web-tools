@@ -18,6 +18,8 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 
 ## Text Tools
 
+<!-- - [DailyToolkit Word Counter](https://dailytoolkit.app/tools/word-counter) - Count words, characters, sentences, and paragraphs in text. -->
+- [DailyToolkit Word Counter](https://dailytoolkit.app/tools/word-counter) - Analyze text with word, character, sentence, paragraph, and reading-time counts.
 - [Tool Name](https://example.com) - One-line description of what it does.
 
 ## Developer Tools

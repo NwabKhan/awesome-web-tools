@@ -17,10 +17,14 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [Generators](#generators)
 
 ## Text Tools
-
-<!-- - [DailyToolkit Word Counter](https://dailytoolkit.app/tools/word-counter) - Count words, characters, sentences, and paragraphs in text. -->
+- [Character Counter](https://dailytoolkit.app/tools/character-counter) - Count characters with and without spaces in real time.
+- [Convert Case](https://convertcase.net) - Bulk-convert text between upper, lower, title, sentence and more cases.
+- [Diffchecker](https://www.diffchecker.com) - Compare two texts and highlight the differences.
+- [Letter Counter](https://dailytoolkit.app/tools/letter-counter) - Count letters and letter frequency in any text.
+- [Remove Duplicate Lines](https://dailytoolkit.app/tools/remove-duplicate-lines) - Remove duplicate or blank lines from a block of text.
+- [Text Case Converter](https://dailytoolkit.app/tools/text-case-converter) - Switch text between upper, lower, title, sentence and toggle case instantly.
+- [Text Repeater](https://dailytoolkit.app/tools/text-repeater) - Repeat any text or phrase a set number of times.
 - [Word Counter](https://dailytoolkit.app/tools/word-counter) - Analyze text with word, character, sentence, paragraph, and reading-time counts.
-- [Tool Name](https://example.com) - One-line description of what it does.
 
 ## Developer Tools
 

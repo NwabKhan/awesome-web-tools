@@ -28,6 +28,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 
 ## Developer Tools
 
+- [JSON Formatter](https://nutilz.com/json-formatter) - Format, validate, and beautify JSON with syntax highlighting.
 - [Tool Name](https://example.com) - One-line description of what it does.
 
 ## Math & Numbers

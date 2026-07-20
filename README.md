@@ -45,7 +45,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 
 ## Education
 
-- [Tool Name](https://example.com) - One-line description of what it does.
+- [GPA Calculator](https://nutilz.com/gpa-calculator) - Calculate your GPA instantly by entering course grades and credit hours, no signup.
 
 ## Design
 

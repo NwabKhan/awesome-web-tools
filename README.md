@@ -28,8 +28,21 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 
 ## Developer Tools
 
+- [Base64 Encoder / Decoder](https://dailytoolkit.app/tools/base64-encoder) - Encode and decode text or files to and from Base64.
+- [crontab.guru](https://crontab.guru) - Understand and build cron schedule expressions.
+- [Epoch Converter](https://www.epochconverter.com) - Convert Unix timestamps to readable dates.
+- [HTML to Markdown](https://dailytoolkit.app/tools/html-to-markdown) - Convert HTML into clean Markdown.
 - [JSON Formatter](https://nutilz.com/json-formatter) - Format, validate, and beautify JSON with syntax highlighting.
-- [Tool Name](https://example.com) - One-line description of what it does.
+- [JSON Formatter & Minifier](https://dailytoolkit.app/tools/json-formatter) - Format, validate and minify JSON in the browser, no upload.
+- [JSONLint](https://jsonlint.com) - Validate and format JSON with error reporting.
+- [JWT Decoder](https://dailytoolkit.app/tools/jwt-decoder) - Decode and inspect a JWT's header, payload and signature.
+- [JWT Generator](https://dailytoolkit.app/tools/jwt-generator) - Generate signed JWTs for testing and development.
+- [jwt.io](https://jwt.io) - Decode, verify and generate JSON Web Tokens.
+- [Markdown to HTML](https://dailytoolkit.app/tools/markdown-to-html) - Convert Markdown to clean HTML with live preview.
+- [Meta Tag Generator](https://dailytoolkit.app/tools/meta-tag-generator) - Generate SEO and Open Graph meta tags for any page.
+- [regex101](https://regex101.com) - Build, test and debug regular expressions with explanations.
+- [URL Encoder / Decoder](https://dailytoolkit.app/tools/url-encoder) - Encode and decode URL components and query strings.
+- [UUID Generator](https://dailytoolkit.app/tools/uuid-generator) - Generate v4 UUIDs individually or in bulk.
 
 ## Math & Numbers
 

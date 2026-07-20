@@ -37,7 +37,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 
 ## Finance
 
-- [Tool Name](https://example.com) - One-line description of what it does.
+- [Tax Bracket Calculator](https://nutilz.com/tax-bracket-calculator) - Find your federal tax bracket and effective tax rate instantly, no signup.
 
 ## Health
 

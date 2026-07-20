@@ -40,7 +40,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 
 ## Health
 
-- [Tool Name](https://example.com) - One-line description of what it does.
+- [BMI Calculator](https://nutilz.com/bmi-calculator) - Calculate body mass index instantly with metric or imperial units, no signup.
 
 ## Education
 

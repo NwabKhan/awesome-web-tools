@@ -46,7 +46,16 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 
 ## Math & Numbers
 
+- [Calculator.net](https://www.calculator.net) - Huge free library of calculators for almost anything.
+- [Date Calculator](https://dailytoolkit.app/tools/date-calculator) - Calculate the difference between two dates.
+- [Desmos](https://www.desmos.com/calculator) - Free advanced online graphing calculator.
+- [Discount Calculator](https://dailytoolkit.app/tools/discount-calculator) - Calculate discounts, sale prices and savings.
+- [Omni Calculator](https://www.omnicalculator.com) - Thousands of calculators across many topics.
 - [Percentage Calculator](https://nutilz.com/percentage-calculator) - Calculate percentages, percentage increase/decrease, and percentage differences instantly, free and no signup required.
+- [Percentage Decrease Calculator](https://dailytoolkit.app/tools/percentage-decrease-calculator) - Calculate the percentage decrease between two values.
+- [Percentage Increase Calculator](https://dailytoolkit.app/tools/percentage-increase-calculator) - Calculate the percentage increase between two values.
+- [Scientific Calculator](https://dailytoolkit.app/tools/scientific-calculator) - Full scientific calculator with trig, logs and more.
+- [Time Calculator](https://dailytoolkit.app/tools/time-calculator) - Add, subtract and convert time durations.
 
 ## Finance
 

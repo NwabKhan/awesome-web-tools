@@ -20,6 +20,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [Character Counter](https://dailytoolkit.app/tools/character-counter) - Count characters with and without spaces in real time.
 - [Convert Case](https://convertcase.net) - Bulk-convert text between upper, lower, title, sentence and more cases.
 - [Diffchecker](https://www.diffchecker.com) - Compare two texts and highlight the differences.
+- [Landing Page Clarity Checker](https://yunczo.github.io/landing-page-clarity-audit/clarity-checker.html) - Check headline and CTA copy against seven transparent editorial signals.
 - [Letter Counter](https://dailytoolkit.app/tools/letter-counter) - Count letters and letter frequency in any text.
 - [Remove Duplicate Lines](https://dailytoolkit.app/tools/remove-duplicate-lines) - Remove duplicate or blank lines from a block of text.
 - [Text Case Converter](https://dailytoolkit.app/tools/text-case-converter) - Switch text between upper, lower, title, sentence and toggle case instantly.

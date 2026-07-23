@@ -75,7 +75,12 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 
 ## Education
 
-- [GPA Calculator](https://nutilz.com/gpa-calculator) - Calculate your GPA instantly by entering course grades and credit hours, no signup.
+- [Age Calculator](https://dailytoolkit.app/tools/age-calculator) - Calculate exact age in years, months and days.
+- [CGPA Calculator](https://dailytoolkit.app/tools/cgpa-calculator) - Calculate cumulative GPA across multiple semesters.
+- [DailyToolkit GPA Calculator](https://dailytoolkit.app/tools/gpa-calculator) - Calculate semester GPA with weighted credit hours and letter or point grades.
+- [Nutilz GPA Calculator](https://nutilz.com/gpa-calculator) - Enter course grades and credit hours for an instant GPA, no signup.
+- [RapidTables](https://www.rapidtables.com) - Reference tables, converters and calculators.
+- [Wolfram Alpha](https://www.wolframalpha.com) - Computational knowledge engine for math and science.
 
 ## Design
 

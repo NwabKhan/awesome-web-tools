@@ -58,12 +58,19 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [Time Calculator](https://dailytoolkit.app/tools/time-calculator) - Add, subtract and convert time durations.
 
 ## Finance
-
+- [Home Loan EMI Calculator](https://dailytoolkit.app/tools/home-loan-emi-calculator) - Calculate EMI and interest for a home loan.
+- [Loan EMI Calculator](https://dailytoolkit.app/tools/loan-emi-calculator) - Calculate loan EMI, total interest and payment schedule.
+- [Loan / Mortgage Calculator](https://dailytoolkit.app/tools/loan-mortgage-calculator) - Estimate mortgage payments, interest and amortization.
+- [Personal Loan EMI Calculator](https://dailytoolkit.app/tools/personal-loan-emi-calculator) - Calculate EMI and interest for a personal loan.
 - [Tax Bracket Calculator](https://nutilz.com/tax-bracket-calculator) - Find your federal tax bracket and effective tax rate instantly, no signup.
 
 ## Health
 
 - [BMI Calculator](https://nutilz.com/bmi-calculator) - Calculate body mass index instantly with metric or imperial units, no signup.
+- [BMR Calculator](https://dailytoolkit.app/tools/bmr-calculator) - Calculate Basal Metabolic Rate for daily energy use.
+- [Body Mass Index Calculator](https://dailytoolkit.app/tools/bmi-calculator) - Calculate Body Mass Index from height and weight.
+- [Calorie Calculator](https://dailytoolkit.app/tools/calorie-calculator) - Estimate daily calorie needs from your stats and activity.
+- [Omni Calculator — Health](https://www.omnicalculator.com/health) - Free health and fitness calculators.
 
 ## Education
 

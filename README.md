@@ -89,6 +89,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 ## Image Tools
 
 - [Quick Image Kit](https://quickimagekit.com/compress-image) - Compress and resize images in the browser without signup.
+- [SnapOG](https://sittichai9680.github.io/snapog/) - Generate and download 1200x630 Open Graph images in the browser without signup.
 - [Tool Name](https://example.com) - One-line description of what it does.
 
 ## Generators

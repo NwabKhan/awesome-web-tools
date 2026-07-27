@@ -109,6 +109,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [Image Cropper](https://dailytoolkit.app/tools/image-cropper) - Crop images to custom sizes and aspect ratios.
 - [Image Resizer](https://dailytoolkit.app/tools/image-resizer) - Resize images to exact dimensions without uploads.
 - [JPG to PNG Converter](https://dailytoolkit.app/tools/jpg-to-png-converter) - Convert JPG images to PNG in the browser.
+- [gottrix](https://gottrix.app) - Free browser-based file conversion (image, PDF, audio, video); 500+ tools, no uploads, no signup.
 - [Photopea](https://www.photopea.com) - Free browser-based photo editor.
 - [PNG to JPG Converter](https://dailytoolkit.app/tools/png-to-jpg-converter) - Convert PNG images to JPG in the browser.
 - [Quick Image Kit](https://quickimagekit.com/compress-image) - Compress and resize images in the browser without signup.

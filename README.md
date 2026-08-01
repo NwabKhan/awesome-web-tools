@@ -17,6 +17,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [Generators](#generators)
 
 ## Text Tools
+- [Anagram Solver](https://nutilz.com/anagram-solver) - Find every valid word from a set of letters, grouped by length, for Scrabble, Words with Friends, and word puzzles. No signup.
 - [Character Counter](https://dailytoolkit.app/tools/character-counter) - Count characters with and without spaces in real time.
 - [Convert Case](https://convertcase.net) - Bulk-convert text between upper, lower, title, sentence and more cases.
 - [Diff Checker](https://nutilz.com/diff-checker) - Compare two blocks of text side by side and highlight added, removed and changed lines instantly, free with no signup.

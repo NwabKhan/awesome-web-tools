@@ -52,6 +52,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [regex101](https://regex101.com) - Build, test and debug regular expressions with explanations.
 - [URL Encoder / Decoder](https://dailytoolkit.app/tools/url-encoder) - Encode and decode URL components and query strings.
 - [UUID Generator](https://dailytoolkit.app/tools/uuid-generator) - Generate v4 UUIDs individually or in bulk.
+- [UUID Generator](https://nutilz.com/uuid-generator) - Generate UUID v4 and v7 in bulk with uppercase and no-dash options, entirely client-side.
 
 ## Math & Numbers
 

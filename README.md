@@ -81,6 +81,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [BMR Calculator](https://dailytoolkit.app/tools/bmr-calculator) - Calculate Basal Metabolic Rate for daily energy use.
 - [Body Mass Index Calculator](https://dailytoolkit.app/tools/bmi-calculator) - Calculate Body Mass Index from height and weight.
 - [Calorie Calculator](https://dailytoolkit.app/tools/calorie-calculator) - Estimate daily calorie needs from your stats and activity.
+- [Calorie Deficit Calculator](https://nutilz.com/calorie-deficit-calculator) - Calculate your daily calorie deficit for weight loss based on your stats and goals, no signup.
 - [Omni Calculator — Health](https://www.omnicalculator.com/health) - Free health and fitness calculators.
 
 ## Education

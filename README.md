@@ -104,6 +104,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [CSS Gradient Generator](https://dailytoolkit.app/tools/css-gradient-generator) - Create CSS gradients and copy the code.
 - [CSS Gradient Text Generator](https://dailytoolkit.app/tools/css-gradient-text-generator) - Generate CSS for gradient-filled text.
 - [Haikei](https://haikei.app) - Generate SVG backgrounds, blobs and waves.
+- [Nutilz Signature Maker](https://nutilz.com/signature-maker) - Draw or type a digital signature and download it as a PNG. No sign-up, no watermark, nothing stored.
 - [Realtime Colors](https://www.realtimecolors.com) - Preview color palettes on a live UI mockup.
 
 ## Image Tools

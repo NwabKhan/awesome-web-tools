@@ -68,6 +68,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [Time Calculator](https://dailytoolkit.app/tools/time-calculator) - Add, subtract and convert time durations.
 
 ## Finance
+- [Currency Converter](https://nutilz.com/currency-converter) - Convert 31 currencies with live ECB exchange rates, no signup.
 - [Home Loan EMI Calculator](https://dailytoolkit.app/tools/home-loan-emi-calculator) - Calculate EMI and interest for a home loan.
 - [Invoice Generator](https://invoice-generator.appsnap.co.uk) - Create professional invoices with line items, download as PDF instantly. No signup required.
 - [Loan EMI Calculator](https://dailytoolkit.app/tools/loan-emi-calculator) - Calculate loan EMI, total interest and payment schedule.

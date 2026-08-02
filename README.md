@@ -124,6 +124,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 
 ## Generators
 
+- [Barcode Generator](https://nutilz.com/barcode-generator) - Create CODE128, EAN-13, EAN-8, UPC and CODE39 barcodes with auto check digits, free and no signup.
 - [Bitwarden Password Generator](https://bitwarden.com/password-generator) - Generate strong passwords and passphrases.
 - [Favicon.io](https://favicon.io) - Generate favicons from text, images or emoji.
 - [Hashtag Generator](https://dailytoolkit.app/tools/hashtag-generator) - Generate relevant hashtags for social posts.

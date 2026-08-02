@@ -128,6 +128,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [Favicon.io](https://favicon.io) - Generate favicons from text, images or emoji.
 - [Hashtag Generator](https://dailytoolkit.app/tools/hashtag-generator) - Generate relevant hashtags for social posts.
 - [Lorem Ipsum Generator](https://dailytoolkit.app/tools/lorem-ipsum-generator) - Generate placeholder lorem ipsum text.
+- [Nutilz QR Code Generator](https://nutilz.com/qr-generator) - Create scannable QR codes for URLs, text, WiFi and more, download as PNG instantly, no signup required.
 - [Password Generator](https://dailytoolkit.app/tools/password-generator) - Generate strong, customizable random passwords.
 - [QR Code Generator](https://dailytoolkit.app/tools/qr-code-generator) - Create QR codes for URLs, text and more.
 - [QR Code Monkey](https://www.qrcode-monkey.com) - Create custom QR codes with logos and colors.

@@ -25,6 +25,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [Find and Replace](https://nutilz.com/find-replace) - Free find and replace text online with regex support, case sensitivity and whole word matching. No signup.
 - [Landing Page Clarity Checker](https://yunczo.github.io/landing-page-clarity-audit/clarity-checker.html) - Check headline and CTA copy against seven transparent editorial signals.
 - [Letter Counter](https://dailytoolkit.app/tools/letter-counter) - Count letters and letter frequency in any text.
+- [Nutilz Character Counter](https://nutilz.com/character-counter) - Count characters with and without spaces plus real-time limit checks for Twitter/X, SMS, LinkedIn and Instagram, free and no signup required.
 - [Remove Duplicate Lines](https://dailytoolkit.app/tools/remove-duplicate-lines) - Remove duplicate or blank lines from a block of text.
 - [Text Case Converter](https://dailytoolkit.app/tools/text-case-converter) - Switch text between upper, lower, title, sentence and toggle case instantly.
 - [Text Repeater](https://dailytoolkit.app/tools/text-repeater) - Repeat any text or phrase a set number of times.

@@ -78,6 +78,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 ## Health
 
 - [BMI Calculator](https://nutilz.com/bmi-calculator) - Calculate body mass index instantly with metric or imperial units, no signup.
+- [BMR & TDEE Calculator](https://nutilz.com/bmr-tdee-calculator) - Calculate BMR and TDEE with the Mifflin-St Jeor formula and activity level, no signup.
 - [BMR Calculator](https://dailytoolkit.app/tools/bmr-calculator) - Calculate Basal Metabolic Rate for daily energy use.
 - [Body Mass Index Calculator](https://dailytoolkit.app/tools/bmi-calculator) - Calculate Body Mass Index from height and weight.
 - [Calorie Calculator](https://dailytoolkit.app/tools/calorie-calculator) - Estimate daily calorie needs from your stats and activity.

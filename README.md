@@ -68,6 +68,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [Time Calculator](https://dailytoolkit.app/tools/time-calculator) - Add, subtract and convert time durations.
 
 ## Finance
+- [401(k) Calculator](https://nutilz.com/401k-calculator) - Project 401(k) balance at retirement with employer match and IRS limits.
 - [Home Loan EMI Calculator](https://dailytoolkit.app/tools/home-loan-emi-calculator) - Calculate EMI and interest for a home loan.
 - [Invoice Generator](https://invoice-generator.appsnap.co.uk) - Create professional invoices with line items, download as PDF instantly. No signup required.
 - [Loan EMI Calculator](https://dailytoolkit.app/tools/loan-emi-calculator) - Calculate loan EMI, total interest and payment schedule.

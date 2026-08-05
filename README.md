@@ -81,6 +81,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 
 ## Health
 
+- [Blood Pressure Calculator](https://nutilz.com/blood-pressure-calculator) - Check blood pressure category per 2017 AHA/ACC guidelines and calculate MAP and pulse pressure.
 - [BMI Calculator](https://nutilz.com/bmi-calculator) - Calculate body mass index instantly with metric or imperial units, no signup.
 - [BMR Calculator](https://dailytoolkit.app/tools/bmr-calculator) - Calculate Basal Metabolic Rate for daily energy use.
 - [Body Mass Index Calculator](https://dailytoolkit.app/tools/bmi-calculator) - Calculate Body Mass Index from height and weight.

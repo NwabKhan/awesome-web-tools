@@ -81,6 +81,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 
 ## Health
 
+- [BAC Calculator](https://nutilz.com/bac-calculator) - Calculate blood alcohol concentration (BAC %) and estimated time to sober using the Widmark formula, free and no signup required.
 - [BMI Calculator](https://nutilz.com/bmi-calculator) - Calculate body mass index instantly with metric or imperial units, no signup.
 - [BMR Calculator](https://dailytoolkit.app/tools/bmr-calculator) - Calculate Basal Metabolic Rate for daily energy use.
 - [Body Mass Index Calculator](https://dailytoolkit.app/tools/bmi-calculator) - Calculate Body Mass Index from height and weight.

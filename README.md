@@ -88,6 +88,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [BMR Calculator](https://dailytoolkit.app/tools/bmr-calculator) - Calculate Basal Metabolic Rate for daily energy use.
 - [Body Mass Index Calculator](https://dailytoolkit.app/tools/bmi-calculator) - Calculate Body Mass Index from height and weight.
 - [Calorie Calculator](https://dailytoolkit.app/tools/calorie-calculator) - Estimate daily calorie needs from your stats and activity.
+- [Nutilz Keto Calculator](https://nutilz.com/keto-calculator) - Calculate daily keto macros (fat, protein, net carbs) from weight, height, age, activity level and goal using the Mifflin-St Jeor formula, free and no signup required.
 - [Noise Exposure Calculator](https://nutilz.com/noise-exposure-calculator) - Calculate OSHA noise dose and 8-hour TWA for workplace hearing conservation compliance.
 - [Omni Calculator — Health](https://www.omnicalculator.com/health) - Free health and fitness calculators.
 - [Nutilz One Rep Max Calculator](https://nutilz.com/one-rep-max-calculator) - Estimate your 1-rep max from any weight/rep set using the Epley, Brzycki, Lombardi and O'Connor formulas, plus a training percentage table, free and no signup required.

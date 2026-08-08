@@ -86,6 +86,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 
 - [BMI Calculator](https://nutilz.com/bmi-calculator) - Calculate body mass index instantly with metric or imperial units, no signup.
 - [BMR Calculator](https://dailytoolkit.app/tools/bmr-calculator) - Calculate Basal Metabolic Rate for daily energy use.
+- [BSA Calculator](https://nutilz.com/bsa-calculator) - Calculate Body Surface Area using Mosteller, Du Bois, Haycock and Boyd formulas, plus Lean Body Mass and drug dosage estimates, free and no signup required.
 - [Body Mass Index Calculator](https://dailytoolkit.app/tools/bmi-calculator) - Calculate Body Mass Index from height and weight.
 - [Calorie Calculator](https://dailytoolkit.app/tools/calorie-calculator) - Estimate daily calorie needs from your stats and activity.
 - [Noise Exposure Calculator](https://nutilz.com/noise-exposure-calculator) - Calculate OSHA noise dose and 8-hour TWA for workplace hearing conservation compliance.

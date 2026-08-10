@@ -57,6 +57,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [Text Encrypt / Decrypt](https://nutilz.com/text-encrypt-decrypt) - Encrypt and decrypt text with AES-256-GCM entirely in the browser, password-protected, no upload, no signup.
 - [URL Encoder / Decoder](https://dailytoolkit.app/tools/url-encoder) - Encode and decode URL components and query strings.
 - [UUID Generator](https://dailytoolkit.app/tools/uuid-generator) - Generate v4 UUIDs individually or in bulk.
+- [Korelyy](https://korelyy.com) - Privacy-first all-in-one collection of 100+ free online tools (image, PDF, JSON, unit, generators). No signup, six languages, runs entirely in your browser.
 
 ## Math & Numbers
 

@@ -140,6 +140,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [Squoosh](https://squoosh.app) - Compress and compare images in the browser.
 - [TinyPNG](https://tinypng.com) - Smart lossy compression for PNG and JPEG.
 - [WebP Converter](https://dailytoolkit.app/tools/webp-converter) - Convert images to and from WebP.
+- [HEIC to JPG Converter](https://heictojpg.thinkforu.org/) - Convert HEIC/HEIF images to JPG format without Login
 
 ## Generators
 

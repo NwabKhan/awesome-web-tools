@@ -84,6 +84,9 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [Scientific Calculator](https://dailytoolkit.app/tools/scientific-calculator) - Full scientific calculator with trig, logs and more.
 - [Statistics Calculator](https://nutilz.com/statistics-calculator) - Calculate mean, median, mode, standard deviation and quartiles from a list of numbers, free with no signup required.
 - [Time Calculator](https://dailytoolkit.app/tools/time-calculator) - Add, subtract and convert time durations.
+- [Embroidery Pricing Calculator](https://embroiderypricingcalculator.com) - Free embroidery job pricing from stitches, fabric, and labor.
+- [Lawn Mowing Cost Calculator](https://lawnmowingcalculator.com) - Free lawn mowing cost estimates by area, rate, and extras.
+- [WattsCalc](https://wattscalc.com) - Free wattage and electricity cost calculator for appliances and devices.
 
 ## Finance
 - [401(k) Calculator](https://nutilz.com/401k-calculator) - Project 401(k) balance at retirement with employer match and IRS limits.
@@ -173,6 +176,10 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [RealFaviconGenerator](https://realfavicongenerator.net) - Generate favicons for all platforms and devices.
 - [WizGenerator Story Generator](https://wizgenerator.com/tools/story-generator/) - Create customizable stories from genre, tone, characters and plot details.
 - [Vedic Astrology Chart](https://vedicastrologychart.net) - Generate a Vedic birth chart from date, time and place.
+- [Codex Theme Builder](https://codextheme.tools) - Free browser theme builder for OpenAI Codex with live preview and CSS token export.
+- [Image to Crochet Pattern](https://imagetocrochetpattern.com) - Convert images into crochet patterns in the browser.
+- [Pressure Washer Fix](https://pressurewasherfix.com) - Free troubleshooting guides for common pressure washer problems.
+- [SkyCOTL Tools](https://skycotl.tools) - Free guides and calculators for Sky: Children of the Light.
 
 ## Contributing
 

@@ -87,6 +87,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [Scientific Calculator](https://dailytoolkit.app/tools/scientific-calculator) - Full scientific calculator with trig, logs and more.
 - [Statistics Calculator](https://nutilz.com/statistics-calculator) - Calculate mean, median, mode, standard deviation and quartiles from a list of numbers, free with no signup required.
 - [Time Calculator](https://dailytoolkit.app/tools/time-calculator) - Add, subtract and convert time durations.
+- [UnitConv](https://unitconv.online/) - Convert common measurement units in six languages.
 
 ## Finance
 - [401(k) Calculator](https://nutilz.com/401k-calculator) - Project 401(k) balance at retirement with employer match and IRS limits.

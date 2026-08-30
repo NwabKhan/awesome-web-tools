@@ -99,7 +99,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [Personal Loan EMI Calculator](https://dailytoolkit.app/tools/personal-loan-emi-calculator) - Calculate EMI and interest for a personal loan.
 - [SmartBizCalc](https://smartbizcalc.com) - 300+ free business calculators covering payroll tax, break-even, self-employment tax, S-corp savings, startup costs, and contractor pricing. No signup.
 - [Tax Bracket Calculator](https://nutilz.com/tax-bracket-calculator) - Find your federal tax bracket and effective tax rate instantly, no signup.
-
+- [Bill Sahulat](https://billsahulat.com/) - Check and view utility bills online.
 ## Health
 
 - [Blood Pressure Calculator](https://nutilz.com/blood-pressure-calculator) - Check blood pressure category per 2017 AHA/ACC guidelines and calculate MAP and pulse pressure.

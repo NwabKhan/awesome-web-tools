@@ -53,6 +53,8 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [CSV Preflight](https://softpeanut.github.io/csv-preflight/) - Check CSV structure and download normalized output locally in the browser.
 - [Developer Tools](https://tools.merrt.com.tr) - 20+ browser-based dev tools: JSON/XML/YAML formatters, JWT decoder, diff, hash and more.
 - [Epoch Converter](https://www.epochconverter.com) - Convert Unix timestamps to readable dates.
+- [Unix Timestamp Converter](https://dailytoolkit.app/tools/unix-timestamp-converter) - Convert Unix timestamps to readable dates and times, and convert dates back to Unix timestamps.
+- [SQL Formatter](https://dailytoolkit.app/tools/sql-formatter) - Format and beautify SQL queries with syntax highlighting for cleaner, more readable SQL.
 - [File Hash Checker](https://nutilz.com/file-hash-checker) - Compute SHA-256, SHA-512 and SHA-1 hashes for any file to verify downloads and check integrity, entirely in the browser.
 - [HTML to Markdown](https://dailytoolkit.app/tools/html-to-markdown) - Convert HTML to clean Markdown.
 - [JieBang Tools](https://jiebang.site) - 170+ free browser-based developer tools: JSON formatter, Base64/URL/HTML encoders, QR code generator, image converter, hash calculator, regex tester, JWT decoder, cron parser and more. No signup, all local processing.

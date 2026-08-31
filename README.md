@@ -154,6 +154,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [SnapOG](https://sittichai9680.github.io/snapog/) - Generate and download 1200x630 Open Graph images in the browser without signup.
 - [Squoosh](https://squoosh.app) - Compress and compare images in the browser.
 - [TinyPNG](https://tinypng.com) - Smart lossy compression for PNG and JPEG.
+- [ToolSuite Image Compressor](https://toolsuite.fit/tools/image-compressor) - Compress and convert JPEG, PNG, and WebP images in your browser with no uploads.
 - [WebP Converter](https://dailytoolkit.app/tools/webp-converter) - Convert images to and from WebP.
 
 ## Generators

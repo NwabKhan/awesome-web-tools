@@ -14,6 +14,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [Education](#education)
 - [Design](#design)
 - [Image Tools](#image-tools)
+- [Video Tools](#video-tools)
 - [Generators](#generators)
 
 ## Text Tools
@@ -120,6 +121,10 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [Squoosh](https://squoosh.app) - Compress and compare images in the browser.
 - [TinyPNG](https://tinypng.com) - Smart lossy compression for PNG and JPEG.
 - [WebP Converter](https://dailytoolkit.app/tools/webp-converter) - Convert images to and from WebP.
+
+## Video Tools
+
+- [Video Size Reducer](https://videosizereducer.org) - Compress MP4 videos to a target size or quality preset in the browser, no upload.
 
 ## Generators
 

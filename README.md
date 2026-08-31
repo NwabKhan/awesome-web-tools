@@ -35,6 +35,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [Text Case Converter](https://dailytoolkit.app/tools/text-case-converter) - Switch text between upper, lower, title, sentence and toggle case instantly.
 - [Text Repeater](https://dailytoolkit.app/tools/text-repeater) - Repeat any text or phrase a set number of times.
 - [Textbench](https://textbench.app) - 64 free text tools in one page (case conversion, cleanup, encoding, hashing, generators) that run entirely in your browser. Nothing uploaded.
+- [Webdings Translator](https://typegleam.com/webdings-translator/) - Converts text to and from Webdings-style Unicode symbols in the browser.
 - [Word Cloud Generator](https://nutilz.com/word-cloud-generator) - Create word clouds from any text with custom colors and max word count, download as PNG, runs entirely in your browser.
 - [Word Counter](https://dailytoolkit.app/tools/word-counter) - Analyze text with word, character, sentence, paragraph, and reading-time counts.
 - [FontifyHub](https://fontifyhub.com) - Generate stylish and fancy Unicode text for social media, gaming names, profiles, usernames, and more.
@@ -52,6 +53,8 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [CSV Preflight](https://softpeanut.github.io/csv-preflight/) - Check CSV structure and download normalized output locally in the browser.
 - [Developer Tools](https://tools.merrt.com.tr) - 20+ browser-based dev tools: JSON/XML/YAML formatters, JWT decoder, diff, hash and more.
 - [Epoch Converter](https://www.epochconverter.com) - Convert Unix timestamps to readable dates.
+- [Unix Timestamp Converter](https://dailytoolkit.app/tools/unix-timestamp-converter) - Convert Unix timestamps to readable dates and times, and convert dates back to Unix timestamps.
+- [SQL Formatter](https://dailytoolkit.app/tools/sql-formatter) - Format and beautify SQL queries with syntax highlighting for cleaner, more readable SQL.
 - [File Hash Checker](https://nutilz.com/file-hash-checker) - Compute SHA-256, SHA-512 and SHA-1 hashes for any file to verify downloads and check integrity, entirely in the browser.
 - [HTML to Markdown](https://dailytoolkit.app/tools/html-to-markdown) - Convert HTML to clean Markdown.
 - [JieBang Tools](https://jiebang.site) - 170+ free browser-based developer tools: JSON formatter, Base64/URL/HTML encoders, QR code generator, image converter, hash calculator, regex tester, JWT decoder, cron parser and more. No signup, all local processing.
@@ -90,6 +93,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 
 ## Finance
 - [401(k) Calculator](https://nutilz.com/401k-calculator) - Project 401(k) balance at retirement with employer match and IRS limits.
+- [Bill Sahulat](https://billsahulat.com/) - Check and view utility bills online.
 - [Compound Interest Calculator](https://superhubutils.netlify.app/finance/compound-interest) - Project compound growth with regular contributions, free and no signup.
 - [Currency Converter](https://superhubutils.netlify.app/finance/currency-converter) - Convert between 25+ currencies with live exchange rates, no signup.
 - [Home Loan EMI Calculator](https://dailytoolkit.app/tools/home-loan-emi-calculator) - Calculate EMI and interest for a home loan.
@@ -99,7 +103,8 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [Personal Loan EMI Calculator](https://dailytoolkit.app/tools/personal-loan-emi-calculator) - Calculate EMI and interest for a personal loan.
 - [SmartBizCalc](https://smartbizcalc.com) - 300+ free business calculators covering payroll tax, break-even, self-employment tax, S-corp savings, startup costs, and contractor pricing. No signup.
 - [Tax Bracket Calculator](https://nutilz.com/tax-bracket-calculator) - Find your federal tax bracket and effective tax rate instantly, no signup.
-- [Bill Sahulat](https://billsahulat.com/) - Check and view utility bills online.
+- [Shift Roster & Pay Platform](https://shiftrosterpay.com/) - 100% private in-browser shift planner and surcharge calculator that instantly predicts monthly net earnings with zero data uploads.
+
 ## Health
 
 - [Blood Pressure Calculator](https://nutilz.com/blood-pressure-calculator) - Check blood pressure category per 2017 AHA/ACC guidelines and calculate MAP and pulse pressure.
@@ -144,6 +149,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [Image Cropper](https://dailytoolkit.app/tools/image-cropper) - Crop images to custom sizes and aspect ratios.
 - [Image Resizer](https://dailytoolkit.app/tools/image-resizer) - Resize images to exact dimensions without uploads.
 - [JPG to PNG Converter](https://dailytoolkit.app/tools/jpg-to-png-converter) - Convert JPG images to PNG in the browser.
+- [MarketPack](https://softpeanut.github.io/marketpack/) - Resize product photos for marketplaces and download one ZIP locally.
 - [Metadata Remover](https://metadataremover.ai/) - Inspect and remove file metadata locally in the browser without signup.
 - [Photopea](https://www.photopea.com) - Free browser-based photo editor.
 - [PNG to JPG Converter](https://dailytoolkit.app/tools/png-to-jpg-converter) - Convert PNG images to JPG in the browser.
@@ -152,6 +158,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [SnapOG](https://sittichai9680.github.io/snapog/) - Generate and download 1200x630 Open Graph images in the browser without signup.
 - [Squoosh](https://squoosh.app) - Compress and compare images in the browser.
 - [TinyPNG](https://tinypng.com) - Smart lossy compression for PNG and JPEG.
+- [ToolSuite Image Compressor](https://toolsuite.fit/tools/image-compressor) - Compress and convert JPEG, PNG, and WebP images in your browser with no uploads.
 - [WebP Converter](https://dailytoolkit.app/tools/webp-converter) - Convert images to and from WebP.
 
 ## Generators

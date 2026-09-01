@@ -14,6 +14,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [Education](#education)
 - [Design](#design)
 - [Image Tools](#image-tools)
+- [Video Tools](#video-tools)
 - [Generators](#generators)
 
 ## Text Tools
@@ -160,6 +161,10 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [TinyPNG](https://tinypng.com) - Smart lossy compression for PNG and JPEG.
 - [ToolSuite Image Compressor](https://toolsuite.fit/tools/image-compressor) - Compress and convert JPEG, PNG, and WebP images in your browser with no uploads.
 - [WebP Converter](https://dailytoolkit.app/tools/webp-converter) - Convert images to and from WebP.
+
+## Video Tools
+
+- [Video Size Reducer](https://videosizereducer.org) - Compress MP4 videos to a target size or quality preset in the browser, no upload.
 
 ## Generators
 

@@ -53,6 +53,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [crontab.guru](https://crontab.guru) - Understand and build cron schedule expressions.
 - [CSV Preflight](https://softpeanut.github.io/csv-preflight/) - Check CSV structure and download normalized output locally in the browser.
 - [Developer Tools](https://tools.merrt.com.tr) - 20+ browser-based dev tools: JSON/XML/YAML formatters, JWT decoder, diff, hash and more.
+- [DevScratchpad](https://devscratchpad.tech) - A zero-data-collection, 100% client-side developer utility suite.
 - [Epoch Converter](https://www.epochconverter.com) - Convert Unix timestamps to readable dates.
 - [Unix Timestamp Converter](https://dailytoolkit.app/tools/unix-timestamp-converter) - Convert Unix timestamps to readable dates and times, and convert dates back to Unix timestamps.
 - [SQL Formatter](https://dailytoolkit.app/tools/sql-formatter) - Format and beautify SQL queries with syntax highlighting for cleaner, more readable SQL.

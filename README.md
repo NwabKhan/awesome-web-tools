@@ -51,6 +51,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [Base64 Text Converter](https://nutilz.com/base64) - Encode text or files to Base64 and decode Base64 strings, supports Unicode, no signup.
 - [crontab.guru](https://crontab.guru) - Understand and build cron schedule expressions.
 - [CSV Preflight](https://softpeanut.github.io/csv-preflight/) - Check CSV structure and download normalized output locally in the browser.
+- [CSV SafeCheck](https://csv-safecheck.pages.dev/) - Check Shopify product CSV issues and download conservative fixes locally in the browser.
 - [Developer Tools](https://tools.merrt.com.tr) - 20+ browser-based dev tools: JSON/XML/YAML formatters, JWT decoder, diff, hash and more.
 - [Epoch Converter](https://www.epochconverter.com) - Convert Unix timestamps to readable dates.
 - [Unix Timestamp Converter](https://dailytoolkit.app/tools/unix-timestamp-converter) - Convert Unix timestamps to readable dates and times, and convert dates back to Unix timestamps.

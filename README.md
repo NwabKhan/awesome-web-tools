@@ -175,6 +175,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [Favicon.io](https://favicon.io) - Generate favicons from text, images or emoji.
 - [Hashtag Generator](https://dailytoolkit.app/tools/hashtag-generator) - Generate relevant hashtags for social posts.
 - [Lorem Ipsum Generator](https://dailytoolkit.app/tools/lorem-ipsum-generator) - Generate placeholder lorem ipsum text.
+- [Naratake WiFi QR Code Generator](https://naratake.com/en/tools/wifi-qr-code-generator) - Generate a scannable WiFi QR code; the password stays in the browser.
 - [Nutilz Favicon Generator](https://nutilz.com/favicon-generator) - Generate 16x16, 32x32, 48x48, and 192x192 favicon PNGs from any image, entirely in-browser.
 - [Password Generator](https://dailytoolkit.app/tools/password-generator) - Generate strong, customizable random passwords.
 - [PUBG Name Style](https://fontifyhub.com/pubg-name-style) - Generate stylish and unique PUBG names using fancy text, symbols, and Unicode characters.

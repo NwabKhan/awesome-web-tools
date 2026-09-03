@@ -177,6 +177,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [Lorem Ipsum Generator](https://dailytoolkit.app/tools/lorem-ipsum-generator) - Generate placeholder lorem ipsum text.
 - [Nutilz Favicon Generator](https://nutilz.com/favicon-generator) - Generate 16x16, 32x32, 48x48, and 192x192 favicon PNGs from any image, entirely in-browser.
 - [Password Generator](https://dailytoolkit.app/tools/password-generator) - Generate strong, customizable random passwords.
+- [Pet Names](https://petnames.dog/) - Free pet name generator, fit test, and curated dog/animal name ideas.
 - [PUBG Name Style](https://fontifyhub.com/pubg-name-style) - Generate stylish and unique PUBG names using fancy text, symbols, and Unicode characters.
 - [Free Fire Name Style](https://fontifyhub.com/free-fire-name-style) - Create stylish Free Fire names using fancy fonts, symbols, and Unicode characters.
 - [Stylish Name Generator](https://fontifyhub.com/stylish-name-generator) - Generate stylish usernames and nicknames using Unicode text styles and symbols.

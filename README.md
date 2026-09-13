@@ -21,6 +21,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [Ambigram Generator](https://intabtools.com/text/ambigram-generator) - Converts text into Unicode characters that read the same rotated 180 degrees. No upload.
 - [Anagram Solver](https://nutilz.com/anagram-solver) - Find every valid word from a set of letters, grouped by length, for Scrabble, Words with Friends, and word puzzles. No signup.
 - [Character Counter](https://dailytoolkit.app/tools/character-counter) - Count characters with and without spaces in real time.
+- [QuickTiny Clean Text](https://quicktinyv2.vercel.app/clean-text) - Strips extra whitespace, line breaks and invisible characters from pasted text. No signup.
 - [Convert Case](https://convertcase.net) - Bulk-convert text between upper, lower, title, sentence and more cases.
 - [Diff Checker](https://nutilz.com/diff-checker) - Compare two blocks of text side by side and highlight added, removed and changed lines instantly, free with no signup.
 - [Diffchecker](https://www.diffchecker.com) - Compare two texts and highlight the differences.

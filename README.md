@@ -146,6 +146,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 
 ## Image Tools
 
+- [Background Remover](https://tomaserben.com/free-tools/image-background-remover) - Free browser tool to remove image backgrounds; no signup required.
 - [Blur Background](https://blurbackground.vip) - Automatically blur image backgrounds in the browser.
 - [Compress Image to 50KB](https://intabtools.com/image/compress-image-to-50kb) - Compresses an image to a 50KB target size entirely in the browser, no upload.
 - [HEIC to JPG Converter](https://heictojpg.thinkforu.org/) - Convert HEIC images to JPG in the browser without signup.

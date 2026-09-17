@@ -106,6 +106,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [Loan / Mortgage Calculator](https://dailytoolkit.app/tools/loan-mortgage-calculator) - Estimate mortgage payments, interest and amortization.
 - [Personal Loan EMI Calculator](https://dailytoolkit.app/tools/personal-loan-emi-calculator) - Calculate EMI and interest for a personal loan.
 - [SmartBizCalc](https://smartbizcalc.com) - 300+ free business calculators covering payroll tax, break-even, self-employment tax, S-corp savings, startup costs, and contractor pricing. No signup.
+- [Stock Average Calculator](https://stockavg.com/) - Free cost basis and average share price calculator that prints every step of the working. No signup.
 - [Tax Bracket Calculator](https://nutilz.com/tax-bracket-calculator) - Find your federal tax bracket and effective tax rate instantly, no signup.
 - [Shift Roster & Pay Platform](https://shiftrosterpay.com/) - 100% private in-browser shift planner and surcharge calculator that instantly predicts monthly net earnings with zero data uploads.
 

@@ -67,6 +67,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [JWT Decoder](https://dailytoolkit.app/tools/jwt-decoder) - Decode and inspect a JWT's header, payload and signature.
 - [JWT Generator](https://dailytoolkit.app/tools/jwt-generator) - Generate signed JWTs for testing and development.
 - [jwt.io](https://jwt.io) - Decode, verify and generate JSON Web Tokens.
+- [NextReset](https://nextreset.ai/) - Track Codex reset history and official AI-service incidents.
 - [Markdown to HTML](https://dailytoolkit.app/tools/markdown-to-html) - Convert Markdown to clean HTML.
 - [Meta Tag Generator](https://dailytoolkit.app/tools/meta-tag-generator) - Generate SEO and Open Graph meta tags for any page.
 - [Nginx Config Generator](https://alltoolsverse.com/tools/nginx-config-generator/) - Generate Nginx server blocks from domain, root, port and common options.

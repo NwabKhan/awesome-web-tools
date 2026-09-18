@@ -119,6 +119,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [Noise Exposure Calculator](https://nutilz.com/noise-exposure-calculator) - Calculate OSHA noise dose and 8-hour TWA for workplace hearing conservation compliance.
 - [Omni Calculator — Health](https://www.omnicalculator.com/health) - Free health and fitness calculators.
 - [Nutilz One Rep Max Calculator](https://nutilz.com/one-rep-max-calculator) - Estimate your 1-rep max from any weight/rep set using the Epley, Brzycki, Lombardi and O'Connor formulas, plus a training percentage table, free with no signup.
+- [Tai Chi Reset](https://taichi.silentdirectivellc.com/?utm_source=awesome-web-tools&utm_medium=resource-directory) - A personalised 4-week gentle tai chi plan you follow in the browser, plus six free full-length guides (chair tai chi, balance after 60, a 5-minute shoulder reset) that need no signup. Paid plan is $4.99 for 14 days, then $19.99 every 4 weeks.
 
 ## Education
 

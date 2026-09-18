@@ -123,19 +123,22 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 ## Education
 
 - [Age Calculator](https://dailytoolkit.app/tools/age-calculator) - Calculate exact age in years, months and days.
+- [AP Score Calculator](https://dailytoolkit.app/tools/ap-score-calculator) - Estimate your AP exam score based on your performance across multiple-choice and free-response sections.
+- [Attendance Calculator](https://dailytoolkit.app/tools/attendance-calculator) - Calculate your current attendance percentage and determine how many classes you need to attend or can miss to reach your target.
 - [CGPA Calculator](https://dailytoolkit.app/tools/cgpa-calculator) - Calculate cumulative GPA across multiple semesters.
-- [Final Exam Grade Calculator](https://dailytoolkit.app/tools/final-exam-grade-calculator)
+- [DailyToolkit](https://dailytoolkit.app/) - Free online tools and calculators for everyday tasks, developers, students, and more.
+- [Final Exam Grade Calculator](https://dailytoolkit.app/tools/final-exam-grade-calculator) - Calculate the final exam grade you need to achieve your desired overall course grade.
 - [Final Grade Calculator](https://dailytoolkit.app/tools/final-grade-calculator) - Calculate the grade needed on a final exam to achieve a desired course grade.
 - [GPA Calculator](https://dailytoolkit.app/tools/gpa-calculator) - Calculate semester GPA with weighted credit hours and letter or point grades.
 - [Grade Calculator](https://dailytoolkit.app/tools/grade-calculator) - Calculate grades and overall course scores from assignments, tests and other grades.
-- [High School GPA Calculator](https://dailytoolkit.app/tools/high-school-gpa-calculator)
+- [High School GPA Calculator](https://dailytoolkit.app/tools/high-school-gpa-calculator) - Calculate your high school GPA using course grades, credits and weighted or unweighted grading.
 - [Nutilz Age Calculator](https://nutilz.com/age-calculator) - Find your exact age in years, months and days, plus a countdown to your next birthday, free with no signup.
 - [Nutilz GPA Calculator](https://nutilz.com/gpa-calculator) - Enter course grades and credit hours for an instant GPA, no signup.
 - [RapidTables](https://www.rapidtables.com) - Reference tables, converters and calculators.
-- [Test Grade Calculator](https://dailytoolkit.app/tools/test-grade-calculator)
-- [Weighted GPA Calculator](https://dailytoolkit.app/tools/weighted-gpa-calculator)
+- [Test Grade Calculator](https://dailytoolkit.app/tools/test-grade-calculator) - Calculate your test percentage and grade based on the number of questions answered correctly and incorrectly.
+- [Weighted GPA Calculator](https://dailytoolkit.app/tools/weighted-gpa-calculator) - Calculate weighted GPA using course grades, credit hours and additional weight for advanced classes.
 - [Wolfram Alpha](https://www.wolframalpha.com) - Computational knowledge engine for math and science.
-
+- [Z-Score Calculator](https://dailytoolkit.app/tools/z-score-calculator) - Calculate the z-score and determine how far a value is from the mean in terms of standard deviations.
 ## Design
 
 - [Color Converter](https://dailytoolkit.app/tools/color-converter) - Convert colors between HEX, RGB, HSL and more.

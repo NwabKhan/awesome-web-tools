@@ -102,6 +102,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [Future Value Calculator](https://future-value-calculator.com/) - Project investment growth with monthly deposits, withdrawals, inflation, and lower/middle/higher rate scenarios.
 - [Home Loan EMI Calculator](https://dailytoolkit.app/tools/home-loan-emi-calculator) - Calculate EMI and interest for a home loan.
 - [Invoice Generator](https://invoice-generator.appsnap.co.uk) - Create professional invoices with line items, download as PDF instantly. No signup required.
+- [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/) - Free MIT browser freelance docs: invoice, quote, credit note, certificate of completion, and more. No signup.
 - [Loan EMI Calculator](https://dailytoolkit.app/tools/loan-emi-calculator) - Calculate loan EMI, total interest and payment schedule.
 - [Loan / Mortgage Calculator](https://dailytoolkit.app/tools/loan-mortgage-calculator) - Estimate mortgage payments, interest and amortization.
 - [Personal Loan EMI Calculator](https://dailytoolkit.app/tools/personal-loan-emi-calculator) - Calculate EMI and interest for a personal loan.

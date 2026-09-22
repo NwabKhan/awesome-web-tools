@@ -74,6 +74,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [Redirect Checker](https://nutilz.com/redirect-checker) - Follow a shortened or redirecting URL through every hop, showing status codes, redirect type (301/302/307), and the final destination, server-side with no signup.
 - [regex101](https://regex101.com) - Build, test and debug regular expressions with explanations.
 - [Text Encrypt / Decrypt](https://nutilz.com/text-encrypt-decrypt) - Encrypt and decrypt text with AES-256-GCM entirely in the browser, password-protected, no upload, no signup.
+- [ToolVero JSON Formatter](https://toolvero.co/tools/json-formatter/) - Format, validate, and minify JSON locally in your browser with no signup.
 - [URL Encoder / Decoder](https://dailytoolkit.app/tools/url-encoder) - Encode and decode URL components and query strings.
 - [UUID Generator](https://dailytoolkit.app/tools/uuid-generator) - Generate v4 UUIDs individually or in bulk.
 - [User Agent Parser](https://superhubutils.netlify.app/dev/user-agent-parser) - Decode any user agent string into browser, OS and device details, entirely client-side.
@@ -213,3 +214,4 @@ Contributions are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before
 This list is released under [CC0 1.0 Universal](LICENSE) (Public Domain).
 
 To the extent possible under law, all copyright and related rights have been waived. You may copy, modify, distribute, or use this list — even commercially — without asking permission.
+ToolVero JSON Formatter

@@ -96,6 +96,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 - [Shift Roster & Pay Platform](https://shiftrosterpay.com/) - Plan shifts and estimate monthly earnings in the browser.
 - [SmartBizCalc](https://smartbizcalc.com) - Use business calculators for payroll, tax, break-even, startup costs, and pricing.
 - [Stock Average Calculator](https://stockavg.com/) - Calculate cost basis and average share price.
+- [FeeGuard](https://feeguard.dev) - Checks Stripe Connect refunds and disputes for unreversed transfers, unadjusted application fees, and uncovered platform losses.
 
 ## Health
 

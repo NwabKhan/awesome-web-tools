@@ -134,6 +134,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 - [Blur Background](https://blurbackground.vip) - Automatically blur image backgrounds.
 - [Compress Image to 50KB](https://intabtools.com/image/compress-image-to-50kb) - Compress an image toward a 50 KB target size in the browser.
 - [HEIC to JPG Converter](https://heictojpg.thinkforu.org/) - Convert HEIC images to JPG without signup.
+- [HEIC to PNG Converter](https://fileontap.com/heic-to-png/) - Convert HEIC images to PNG in the browser; files are never uploaded to a server.
 - [Image Compressor](https://dailytoolkit.app/tools/image-compressor) - Compress JPG, PNG, and WebP images in the browser.
 - [Image Cropper](https://dailytoolkit.app/tools/image-cropper) - Crop images to custom sizes and aspect ratios.
 - [Image Resizer](https://dailytoolkit.app/tools/image-resizer) - Resize images to exact dimensions.

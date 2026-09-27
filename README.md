@@ -63,6 +63,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 - [Nutilz](https://nutilz.com) - Use browser-based utilities for text, development, calculators, design, and generators.
 - [regex101](https://regex101.com) - Build, test, and debug regular expressions with explanations.
 - [SQL Formatter](https://dailytoolkit.app/tools/sql-formatter) - Format and beautify SQL queries with syntax highlighting.
+- [Toolerax](https://toolerax.com/) - Use browser-based tools for PDF, image, text, calculators, and developer tasks.
 - [Unix Timestamp Converter](https://dailytoolkit.app/tools/unix-timestamp-converter) - Convert Unix timestamps to dates and dates back to timestamps.
 - [URL Encoder / Decoder](https://dailytoolkit.app/tools/url-encoder) - Encode and decode URL components and query strings.
 - [User Agent Parser](https://superhubutils.netlify.app/dev/user-agent-parser) - Parse a user agent string into browser, OS, and device details.

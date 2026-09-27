@@ -36,6 +36,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 - [Small Text Generator](https://intabtools.com/text/small-text-generator) - Convert text into small caps, superscript, and subscript Unicode.
 - [Text Case Converter](https://dailytoolkit.app/tools/text-case-converter) - Switch text between upper, lower, title, sentence, and toggle case.
 - [Text Repeater](https://dailytoolkit.app/tools/text-repeater) - Repeat any text or phrase a specified number of times.
+- [TextBases](https://textbases.app/) - Browser-based utilities for text, data formatting, generators, and developer workflows.
 - [Textbench](https://textbench.app) - Use text cleanup, conversion, encoding, hashing, and generator tools in one page.
 - [Webdings Translator](https://typegleam.com/webdings-translator/) - Convert text to and from Webdings-style Unicode symbols.
 - [Word Counter](https://dailytoolkit.app/tools/word-counter) - Analyze word, character, sentence, paragraph, and reading-time counts.

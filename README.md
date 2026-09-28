@@ -161,6 +161,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 - [Coded Message Generator](https://www.appergo.com/en/online-tools/codes/coded-message-generator/index.html) - Create an encoded message together with its explained solution.
 - [Favicon.io](https://favicon.io) - Generate favicons from text, images, or emoji.
 - [Hashtag Generator](https://dailytoolkit.app/tools/hashtag-generator) - Generate hashtags for social posts.
+- [kdpbook.io Sudoku Maker](https://kdpbook.io/kdp/sudoku-maker) - Generate printable 4×4, 6×6 or 9×9 sudoku from easy to expert, each with one solution and an answer key.
 - [Lorem Ipsum Generator](https://dailytoolkit.app/tools/lorem-ipsum-generator) - Generate placeholder lorem ipsum text.
 - [Naratake WiFi QR Code Generator](https://naratake.com/en/tools/wifi-qr-code-generator) - Generate a scannable Wi-Fi QR code locally in the browser.
 - [Password Generator](https://dailytoolkit.app/tools/password-generator) - Generate customizable random passwords.

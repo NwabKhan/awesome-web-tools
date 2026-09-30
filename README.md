@@ -153,6 +153,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 
 ## Video Tools
 
+- [ReelWorkshop](https://reelworkshop.com/demo) - Arrange and trim your own clips into vertical 9:16 compilations in the browser.
 - [Video Size Reducer](https://videosizereducer.org) - Compress MP4 videos by target size or quality preset in the browser.
 
 ## Generators

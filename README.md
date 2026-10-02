@@ -142,6 +142,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 - [Metadata Remover](https://metadataremover.ai/) - Inspect and remove file metadata locally in the browser.
 - [Photopea](https://www.photopea.com) - Edit images with a full browser-based photo editor.
 - [PNG to JPG Converter](https://dailytoolkit.app/tools/png-to-jpg-converter) - Convert PNG images to JPG.
+- [Poster Tiling](https://utilpick.com/en/tools/poster-print) - Split a large image across A4, A3, or Letter sheets with overlap and cut marks, exported as a PDF.
 - [Quick Image Kit](https://quickimagekit.com/compress-image) - Compress and resize images without signup.
 - [remove.bg](https://www.remove.bg) - Remove image backgrounds automatically.
 - [SnapOG](https://sittichai9680.github.io/snapog/) - Generate and download 1200×630 Open Graph images.

@@ -154,6 +154,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 ## Video Tools
 
 - [Video Size Reducer](https://videosizereducer.org) - Compress MP4 videos by target size or quality preset in the browser.
+- [VidSizer](https://vidsizer.com) - Compress any video to an exact target file size entirely in the browser.
 
 ## Generators
 

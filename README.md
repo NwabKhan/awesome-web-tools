@@ -62,6 +62,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 - [Nginx Config Generator](https://alltoolsverse.com/tools/nginx-config-generator/) - Generate Nginx server blocks from common configuration options.
 - [Nutilz](https://nutilz.com) - Use browser-based utilities for text, development, calculators, design, and generators.
 - [regex101](https://regex101.com) - Build, test, and debug regular expressions with explanations.
+- [Shipvela Deployment Planner](https://shipvela.com/tools/deploy-check) - Generate React/Vite and static-site build settings and CLI commands locally in the browser.
 - [SQL Formatter](https://dailytoolkit.app/tools/sql-formatter) - Format and beautify SQL queries with syntax highlighting.
 - [Unix Timestamp Converter](https://dailytoolkit.app/tools/unix-timestamp-converter) - Convert Unix timestamps to dates and dates back to timestamps.
 - [URL Encoder / Decoder](https://dailytoolkit.app/tools/url-encoder) - Encode and decode URL components and query strings.

@@ -76,6 +76,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 - [Desmos](https://www.desmos.com/calculator) - Use an advanced online graphing calculator.
 - [Discount Calculator](https://dailytoolkit.app/tools/discount-calculator) - Calculate discounts, sale prices, and savings.
 - [Historical Length Converter](https://www.appergo.com/en/online-tools/conversion/historical-length-converter/index.html) - Convert historical units such as pieds, perches, and cubits.
+- [Mini Golf Cost Calculator](https://minigolfspots.com/mini-golf-cost-calculator) - Estimate mini-golf outing costs from entered prices, group size, fees and taxes.
 - [Omni Calculator](https://www.omnicalculator.com) - Use calculators covering math, science, finance, health, and more.
 - [Percentage Decrease Calculator](https://dailytoolkit.app/tools/percentage-decrease-calculator) - Calculate the percentage decrease between two values.
 - [Percentage Increase Calculator](https://dailytoolkit.app/tools/percentage-increase-calculator) - Calculate the percentage increase between two values.

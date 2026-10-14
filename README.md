@@ -106,6 +106,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 
 ## Education
 
+- [3D Solar System Simulator](https://3dsolarsystem.net) - Explore an interactive 3D model of the Sun and planets in the browser.
 - [Age Calculator](https://dailytoolkit.app/tools/age-calculator) - Calculate exact age in years, months, and days.
 - [CGPA Calculator](https://dailytoolkit.app/tools/cgpa-calculator) - Calculate cumulative GPA across multiple semesters.
 - [Final Grade Calculator](https://dailytoolkit.app/tools/final-grade-calculator) - Calculate the final-exam score needed to reach a target course grade.

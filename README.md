@@ -116,6 +116,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 - [Test Grade Calculator](https://dailytoolkit.app/tools/test-grade-calculator) - Calculate a test percentage and letter grade from correct answers.
 - [Weighted GPA Calculator](https://dailytoolkit.app/tools/weighted-gpa-calculator) - Calculate weighted GPA using course grades, credits, and course levels.
 - [Wolfram Alpha](https://www.wolframalpha.com) - Query a computational knowledge engine for math and science.
+- [Typing Speed Test for Kids](https://typing.rerivo.com/typing-test-for-kids.html) - Practice typing with a free kid-friendly WPM test, no sign up required.
 
 ## Design
 

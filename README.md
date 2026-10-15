@@ -31,6 +31,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 - [Invisible Character](https://intabtools.com/text/invisible-character) - Copy invisible and zero-width Unicode characters.
 - [Landing Page Clarity Checker](https://yunczo.github.io/landing-page-clarity-audit/clarity-checker.html) - Check headline and CTA copy against seven editorial signals.
 - [Letter Counter](https://dailytoolkit.app/tools/letter-counter) - Count letters and letter frequency in text.
+ - [Online Lists Maker](https://onlinelistsmaker.com/) - Free online list maker, create and share lists instantly with no signup.
 - [Remove Duplicate Lines](https://dailytoolkit.app/tools/remove-duplicate-lines) - Remove duplicate or blank lines from text.
 - [Slug Generator](https://superhubutils.netlify.app/text/slug-generator) - Create clean URL slugs from text.
 - [Small Text Generator](https://intabtools.com/text/small-text-generator) - Convert text into small caps, superscript, and subscript Unicode.

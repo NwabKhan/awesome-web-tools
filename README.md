@@ -46,6 +46,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 - [Base64 Encoder / Decoder](https://dailytoolkit.app/tools/base64-encoder) - Encode and decode text or files to and from Base64.
 - [crontab.guru](https://crontab.guru) - Build and understand cron schedule expressions.
 - [CSV Preflight](https://softpeanut.github.io/csv-preflight/) - Check CSV structure and download normalized output locally.
+- [CurlShot](https://curlshot.com) - Take a screenshot of a web page from its URL, whole page or top only, as an image or PDF.
 - [Developer Tools](https://tools.merrt.com.tr) - Use browser-based JSON, XML, YAML, JWT, diff, hash, and related utilities.
 - [DevScratchpad](https://devscratchpad.tech) - Use a client-side developer utility suite with no data collection.
 - [Epoch Converter](https://www.epochconverter.com) - Convert Unix timestamps to readable dates.

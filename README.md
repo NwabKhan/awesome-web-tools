@@ -131,6 +131,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 
 ## Image Tools
 
+- [Background Blur](https://tomaserben.com/free-tools/background-blur) - Soften photo backgrounds free in the browser, no signup.
 - [Blur Background](https://blurbackground.vip) - Automatically blur image backgrounds.
 - [Compress Image to 50KB](https://intabtools.com/image/compress-image-to-50kb) - Compress an image toward a 50 KB target size in the browser.
 - [HEIC to JPG Converter](https://heictojpg.thinkforu.org/) - Convert HEIC images to JPG without signup.

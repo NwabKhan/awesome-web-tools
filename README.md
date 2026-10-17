@@ -61,6 +61,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 - [Meta Tag Generator](https://dailytoolkit.app/tools/meta-tag-generator) - Generate SEO and Open Graph meta tags.
 - [Nginx Config Generator](https://alltoolsverse.com/tools/nginx-config-generator/) - Generate Nginx server blocks from common configuration options.
 - [Nutilz](https://nutilz.com) - Use browser-based utilities for text, development, calculators, design, and generators.
+- [ReactionMetric](https://reactionmetric.com/) - Browser-based reaction time and mouse double-click tests.
 - [regex101](https://regex101.com) - Build, test, and debug regular expressions with explanations.
 - [SQL Formatter](https://dailytoolkit.app/tools/sql-formatter) - Format and beautify SQL queries with syntax highlighting.
 - [Unix Timestamp Converter](https://dailytoolkit.app/tools/unix-timestamp-converter) - Convert Unix timestamps to dates and dates back to timestamps.

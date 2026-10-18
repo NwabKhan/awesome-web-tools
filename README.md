@@ -131,6 +131,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 
 ## Image Tools
 
+- [ASCII Art Converter](https://tomaserben.com/free-tools/image-to-ascii-art) - Turn photos and logos into ASCII text art in the browser, no signup.
 - [Blur Background](https://blurbackground.vip) - Automatically blur image backgrounds.
 - [Compress Image to 50KB](https://intabtools.com/image/compress-image-to-50kb) - Compress an image toward a 50 KB target size in the browser.
 - [HEIC to JPG Converter](https://heictojpg.thinkforu.org/) - Convert HEIC images to JPG without signup.

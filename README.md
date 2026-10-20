@@ -75,6 +75,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 - [Date Calculator](https://dailytoolkit.app/tools/date-calculator) - Calculate the difference between two dates.
 - [Desmos](https://www.desmos.com/calculator) - Use an advanced online graphing calculator.
 - [Discount Calculator](https://dailytoolkit.app/tools/discount-calculator) - Calculate discounts, sale prices, and savings.
+- [Hexvan Trade Calculators](https://hexvan.com/tools) - Work out concrete, bricks, tiles, paint and other building materials.
 - [Historical Length Converter](https://www.appergo.com/en/online-tools/conversion/historical-length-converter/index.html) - Convert historical units such as pieds, perches, and cubits.
 - [Omni Calculator](https://www.omnicalculator.com) - Use calculators covering math, science, finance, health, and more.
 - [Percentage Decrease Calculator](https://dailytoolkit.app/tools/percentage-decrease-calculator) - Calculate the percentage decrease between two values.

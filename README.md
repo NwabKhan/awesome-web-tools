@@ -41,6 +41,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 - [Word Counter](https://dailytoolkit.app/tools/word-counter) - Analyze word, character, sentence, paragraph, and reading-time counts.
 
 ## Developer Tools
+* [Huzikit](https://www.huzikit.com) - Fast, privacy-focused client-side web utilities including text tools, converters, and developer utilities.
 
 - [API Status Badges](https://apistatuscheck.com/badges) - Create live SVG status badges for supported APIs.
 - [Base64 Encoder / Decoder](https://dailytoolkit.app/tools/base64-encoder) - Encode and decode text or files to and from Base64.

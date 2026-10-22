@@ -28,6 +28,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 - [Diffhero](https://diffhero.app) - Compare text and code with syntax highlighting and word-level differences.
 - [FontifyHub](https://fontifyhub.com) - Generate stylized Unicode text for usernames, profiles, messages, and social media.
 - [Gothic Font Generator](https://intabtools.com/text/gothic-font-generator) - Convert text into Fraktur-style Unicode characters.
+- [Instagram Font Generator](https://www.juzpost.com/tools/instagram-font-generator) - Convert text into Unicode font styles for Instagram bios and captions, with a profile preview.
 - [Invisible Character](https://intabtools.com/text/invisible-character) - Copy invisible and zero-width Unicode characters.
 - [Landing Page Clarity Checker](https://yunczo.github.io/landing-page-clarity-audit/clarity-checker.html) - Check headline and CTA copy against seven editorial signals.
 - [Letter Counter](https://dailytoolkit.app/tools/letter-counter) - Count letters and letter frequency in text.

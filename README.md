@@ -73,6 +73,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 - [Calculator.net](https://www.calculator.net) - Use a large collection of calculators across many topics.
 - [Concrete Estimator Hub](https://concreteestimatorhub.com/) - Estimate slab volume, bag counts, post holes, ready-mix, and material costs.
 - [Date Calculator](https://dailytoolkit.app/tools/date-calculator) - Calculate the difference between two dates.
+- [Days Until Date Calculator](https://tomaserben.com/free-tools/days-until-date) - Count days until birthdays, holidays, and events with quick holiday picks. Free, no signup.
 - [Desmos](https://www.desmos.com/calculator) - Use an advanced online graphing calculator.
 - [Discount Calculator](https://dailytoolkit.app/tools/discount-calculator) - Calculate discounts, sale prices, and savings.
 - [Historical Length Converter](https://www.appergo.com/en/online-tools/conversion/historical-length-converter/index.html) - Convert historical units such as pieds, perches, and cubits.

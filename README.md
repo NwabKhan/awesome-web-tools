@@ -70,6 +70,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 
 ## Math & Numbers
 
+- [8D Gate Gage R&R Calculator](https://8d-gate.vercel.app/gage-rr-calculator) - Calculates %GRR, repeatability, reproducibility and ndc from operator, part and trial data.
 - [Calculator.net](https://www.calculator.net) - Use a large collection of calculators across many topics.
 - [Concrete Estimator Hub](https://concreteestimatorhub.com/) - Estimate slab volume, bag counts, post holes, ready-mix, and material costs.
 - [Date Calculator](https://dailytoolkit.app/tools/date-calculator) - Calculate the difference between two dates.

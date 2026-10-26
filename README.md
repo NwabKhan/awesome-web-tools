@@ -137,6 +137,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 - [Image Compressor](https://dailytoolkit.app/tools/image-compressor) - Compress JPG, PNG, and WebP images in the browser.
 - [Image Cropper](https://dailytoolkit.app/tools/image-cropper) - Crop images to custom sizes and aspect ratios.
 - [Image Resizer](https://dailytoolkit.app/tools/image-resizer) - Resize images to exact dimensions.
+- [ImgFlow](https://imgflow.taoliapp.com) - Compress and convert images in the browser without uploading files.
 - [JPG to PNG Converter](https://dailytoolkit.app/tools/jpg-to-png-converter) - Convert JPG images to PNG.
 - [MarketPack](https://softpeanut.github.io/marketpack/) - Resize product photos for marketplaces and download them as a ZIP.
 - [Metadata Remover](https://metadataremover.ai/) - Inspect and remove file metadata locally in the browser.

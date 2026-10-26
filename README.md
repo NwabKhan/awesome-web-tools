@@ -119,6 +119,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 
 ## Design
 
+- [APPLORE App Icon Generator](https://applore.app/app-icon-generator) - Export one image to every iOS, Android and web app icon size in the browser.
 - [Color Converter](https://dailytoolkit.app/tools/color-converter) - Convert colors between HEX, RGB, HSL, and other formats.
 - [Color Hunt](https://colorhunt.co) - Browse curated color palette inspiration.
 - [Color Palette Generator](https://dailytoolkit.app/tools/color-palette-generator) - Generate and export color palettes.

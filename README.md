@@ -141,6 +141,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 - [MarketPack](https://softpeanut.github.io/marketpack/) - Resize product photos for marketplaces and download them as a ZIP.
 - [Metadata Remover](https://metadataremover.ai/) - Inspect and remove file metadata locally in the browser.
 - [Photopea](https://www.photopea.com) - Edit images with a full browser-based photo editor.
+- [Pic2Vector](https://pic2vector.com/) - Convert PNG, JPG, and WebP images to SVG in the browser.
 - [PNG to JPG Converter](https://dailytoolkit.app/tools/png-to-jpg-converter) - Convert PNG images to JPG.
 - [Quick Image Kit](https://quickimagekit.com/compress-image) - Compress and resize images without signup.
 - [remove.bg](https://www.remove.bg) - Remove image backgrounds automatically.

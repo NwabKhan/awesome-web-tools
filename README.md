@@ -146,6 +146,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 - [remove.bg](https://www.remove.bg) - Remove image backgrounds automatically.
 - [SnapOG](https://sittichai9680.github.io/snapog/) - Generate and download 1200×630 Open Graph images.
 - [Squoosh](https://squoosh.app) - Compress and compare images in the browser.
+- [TinyGIF](https://tinygif.app/) - Compress GIFs to a target size and resize Discord, Twitch, and Kick emotes in the browser.
 - [TinyPNG](https://tinypng.com) - Compress PNG and JPEG images.
 - [ToolSuite Image Compressor](https://toolsuite.fit/tools/image-compressor) - Compress and convert JPEG, PNG, and WebP images in the browser.
 - [UnHEIC](https://unheic.io/) - Convert HEIC and HEIF files to JPG, PNG, PDF, or WebP.

@@ -159,6 +159,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 
 - [Bitwarden Password Generator](https://bitwarden.com/password-generator) - Generate strong passwords and passphrases.
 - [Coded Message Generator](https://www.appergo.com/en/online-tools/codes/coded-message-generator/index.html) - Create an encoded message together with its explained solution.
+- [CreateMy-QR](https://createmy-qr.com) - 100% client-side, privacy-first QR code and barcode generator running locally in the browser with vector SVG export.
 - [Favicon.io](https://favicon.io) - Generate favicons from text, images, or emoji.
 - [Hashtag Generator](https://dailytoolkit.app/tools/hashtag-generator) - Generate hashtags for social posts.
 - [Lorem Ipsum Generator](https://dailytoolkit.app/tools/lorem-ipsum-generator) - Generate placeholder lorem ipsum text.

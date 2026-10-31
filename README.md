@@ -84,6 +84,8 @@ Tools are selected for practical value, accessibility, and quality — not for p
 
 ## Finance
 
+- [Tranvas](https://tranvas.com) - All-in-one personal finance, habit tracker, daily planner, and life operating system.
+
 - [Bill Sahulat](https://billsahulat.com/) - Check and view utility bills online.
 - [Compound Interest Calculator](https://superhubutils.netlify.app/finance/compound-interest) - Project compound growth with regular contributions.
 - [Currency Converter](https://superhubutils.netlify.app/finance/currency-converter) - Convert between currencies using live exchange rates.

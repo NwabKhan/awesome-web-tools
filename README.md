@@ -162,6 +162,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 - [Favicon.io](https://favicon.io) - Generate favicons from text, images, or emoji.
 - [Hashtag Generator](https://dailytoolkit.app/tools/hashtag-generator) - Generate hashtags for social posts.
 - [Lorem Ipsum Generator](https://dailytoolkit.app/tools/lorem-ipsum-generator) - Generate placeholder lorem ipsum text.
+- [My Nine Games](https://myninegames.com/) - Make a 3×3 grid of nine video games with notes and download it as a PNG in the browser.
 - [Naratake WiFi QR Code Generator](https://naratake.com/en/tools/wifi-qr-code-generator) - Generate a scannable Wi-Fi QR code locally in the browser.
 - [Password Generator](https://dailytoolkit.app/tools/password-generator) - Generate customizable random passwords.
 - [Pet Names](https://petnames.dog/) - Generate and explore pet and animal name ideas.

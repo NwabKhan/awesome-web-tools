@@ -93,6 +93,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 - [Loan EMI Calculator](https://dailytoolkit.app/tools/loan-emi-calculator) - Calculate loan EMI, total interest, and payment schedule.
 - [Loan / Mortgage Calculator](https://dailytoolkit.app/tools/loan-mortgage-calculator) - Estimate mortgage payments, interest, and amortization.
 - [Personal Loan EMI Calculator](https://dailytoolkit.app/tools/personal-loan-emi-calculator) - Calculate EMI and interest for a personal loan.
+- [RMM Cost Calculator for Small MSPs](https://nizlo.com/guides/cheapest-rmm-for-small-msps) - Compare source-dated public RMM prices by endpoint and technician count.
 - [Shift Roster & Pay Platform](https://shiftrosterpay.com/) - Plan shifts and estimate monthly earnings in the browser.
 - [SmartBizCalc](https://smartbizcalc.com) - Use business calculators for payroll, tax, break-even, startup costs, and pricing.
 - [Stock Average Calculator](https://stockavg.com/) - Calculate cost basis and average share price.

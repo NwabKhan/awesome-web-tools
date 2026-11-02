@@ -21,6 +21,9 @@ Tools are selected for practical value, accessibility, and quality — not for p
 
 ## Text Tools
 
+- [7emoji](https://7emoji.fun) - Translate text into up to 10 emoji suggestions in the browser.
+- [IsWeber](https://isweber.com) - Agent content pipeline for creators: topic to outline, script, and titles.
+- [AI Story Writer](https://aistorywriter.org) - Free AI story writer for kids—short family-safe stories with illustrations and narration.
 - [Ambigram Generator](https://intabtools.com/text/ambigram-generator) - Convert text into Unicode characters that read the same when rotated 180 degrees.
 - [Character Counter](https://dailytoolkit.app/tools/character-counter) - Count characters with and without spaces in real time.
 - [Convert Case](https://convertcase.net) - Convert text between upper, lower, title, sentence, and other cases.
@@ -32,6 +35,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 - [Landing Page Clarity Checker](https://yunczo.github.io/landing-page-clarity-audit/clarity-checker.html) - Check headline and CTA copy against seven editorial signals.
 - [Letter Counter](https://dailytoolkit.app/tools/letter-counter) - Count letters and letter frequency in text.
 - [Remove Duplicate Lines](https://dailytoolkit.app/tools/remove-duplicate-lines) - Remove duplicate or blank lines from text.
+- [Rezloom](https://rezloom.com) - Tailor a resume to a job description from your career materials—Chinese and English on the same facts, with controllable share links.
 - [Slug Generator](https://superhubutils.netlify.app/text/slug-generator) - Create clean URL slugs from text.
 - [Small Text Generator](https://intabtools.com/text/small-text-generator) - Convert text into small caps, superscript, and subscript Unicode.
 - [Text Case Converter](https://dailytoolkit.app/tools/text-case-converter) - Switch text between upper, lower, title, sentence, and toggle case.
@@ -112,6 +116,8 @@ Tools are selected for practical value, accessibility, and quality — not for p
 - [GPA Calculator](https://dailytoolkit.app/tools/gpa-calculator) - Calculate semester GPA using grades and credit hours.
 - [Grade Calculator](https://dailytoolkit.app/tools/grade-calculator) - Calculate overall course scores from assignments, tests, and other grades.
 - [High School GPA Calculator](https://dailytoolkit.app/tools/high-school-gpa-calculator) - Calculate high-school GPA from course grades and credits.
+- [Lompu](https://lompu.com) - Build custom random pickers and flashcards from your own lists.
+- [PuzzlePave](https://puzzlepave.com) - Free packing / polyomino puzzle with 100 levels on an 8×8 board in the browser.
 - [RapidTables](https://www.rapidtables.com) - Use reference tables, converters, calculators, and educational utilities.
 - [Test Grade Calculator](https://dailytoolkit.app/tools/test-grade-calculator) - Calculate a test percentage and letter grade from correct answers.
 - [Weighted GPA Calculator](https://dailytoolkit.app/tools/weighted-gpa-calculator) - Calculate weighted GPA using course grades, credits, and course levels.
@@ -154,6 +160,8 @@ Tools are selected for practical value, accessibility, and quality — not for p
 ## Video Tools
 
 - [Video Size Reducer](https://videosizereducer.org) - Compress MP4 videos by target size or quality preset in the browser.
+- [Html2MP4](https://html2mp4.com) - Turn HTML, prompts, templates, and websites into MP4 videos in the browser.
+- [YouTube Summarizer](https://youtubesummarizer.org) - Paste a YouTube link and get a clear summary with key points in the browser.
 
 ## Generators
 
@@ -163,6 +171,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 - [Hashtag Generator](https://dailytoolkit.app/tools/hashtag-generator) - Generate hashtags for social posts.
 - [Lorem Ipsum Generator](https://dailytoolkit.app/tools/lorem-ipsum-generator) - Generate placeholder lorem ipsum text.
 - [Naratake WiFi QR Code Generator](https://naratake.com/en/tools/wifi-qr-code-generator) - Generate a scannable Wi-Fi QR code locally in the browser.
+- [Odluck](https://odluck.com) - Generate random numbers, passwords, colors, cards, animals, and countries in the browser.
 - [Password Generator](https://dailytoolkit.app/tools/password-generator) - Generate customizable random passwords.
 - [Pet Names](https://petnames.dog/) - Generate and explore pet and animal name ideas.
 - [QR Code Generator](https://dailytoolkit.app/tools/qr-code-generator) - Create QR codes for URLs, text, and other data.

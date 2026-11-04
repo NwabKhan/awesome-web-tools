@@ -172,6 +172,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 - [RealFaviconGenerator](https://realfavicongenerator.net) - Generate favicons for multiple platforms and devices.
 - [Vedic Astrology Chart](https://vedicastrologychart.net) - Generate a Vedic birth chart from date, time, and place.
 - [WizGenerator Story Generator](https://wizgenerator.com/tools/story-generator/) - Generate customizable stories from genre, tone, characters, and plot details.
+- [Sticker Printer Hub](https://stickerprinterhub.com/) - Free browser sticker sheet maker: lays out 4x7 sticker sheets for print-and-cut printers, plus a cost-per-sheet calculator.
 
 ## Contributing
 

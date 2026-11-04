@@ -150,6 +150,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 - [ToolSuite Image Compressor](https://toolsuite.fit/tools/image-compressor) - Compress and convert JPEG, PNG, and WebP images in the browser.
 - [UnHEIC](https://unheic.io/) - Convert HEIC and HEIF files to JPG, PNG, PDF, or WebP.
 - [WebP Converter](https://dailytoolkit.app/tools/webp-converter) - Convert images to and from WebP.
+- [ScanChess](https://scanchess.com) - Convert chess board photos to editable FEN and scoresheet pages to PGN.
 
 ## Video Tools
 

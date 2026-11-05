@@ -80,6 +80,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 - [Percentage Decrease Calculator](https://dailytoolkit.app/tools/percentage-decrease-calculator) - Calculate the percentage decrease between two values.
 - [Percentage Increase Calculator](https://dailytoolkit.app/tools/percentage-increase-calculator) - Calculate the percentage increase between two values.
 - [Scientific Calculator](https://dailytoolkit.app/tools/scientific-calculator) - Use trigonometric, logarithmic, and other scientific functions.
+- [Telegram Sponsorship Quote Comparator](https://thinkpad2050.github.io/telegram-sponsorship-cpm-calculator/) - Compare a Telegram sponsorship quote with median post views and estimate CPM.
 - [Time Calculator](https://dailytoolkit.app/tools/time-calculator) - Add, subtract, and convert time durations.
 
 ## Finance

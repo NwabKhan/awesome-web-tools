@@ -14,6 +14,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 - [Education](#education)
 - [Design](#design)
 - [Image Tools](#image-tools)
+- [3D / CAD Tools](#3d--cad-tools)
 - [Video Tools](#video-tools)
 - [Generators](#generators)
 - [Contributing](#contributing)
@@ -150,6 +151,10 @@ Tools are selected for practical value, accessibility, and quality — not for p
 - [ToolSuite Image Compressor](https://toolsuite.fit/tools/image-compressor) - Compress and convert JPEG, PNG, and WebP images in the browser.
 - [UnHEIC](https://unheic.io/) - Convert HEIC and HEIF files to JPG, PNG, PDF, or WebP.
 - [WebP Converter](https://dailytoolkit.app/tools/webp-converter) - Convert images to and from WebP.
+
+## 3D / CAD Tools
+
+- [CADProps STEP Viewer](https://www.cadprops.com/tools/step-viewer/) - View STEP/STP CAD files in the browser with dimensions and section tools; no account required for viewing.
 
 ## Video Tools
 

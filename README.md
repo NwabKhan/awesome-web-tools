@@ -57,6 +57,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 - [JWT Decoder](https://dailytoolkit.app/tools/jwt-decoder) - Decode and inspect a JWT header, payload, and signature.
 - [JWT Generator](https://dailytoolkit.app/tools/jwt-generator) - Generate signed JWTs for testing and development.
 - [jwt.io](https://jwt.io) - Decode, verify, and generate JSON Web Tokens.
+- [Key Input Lab](https://keyinputlab.top) - Free online keyboard and mouse test — see key events and scroll input in your browser.
 - [Markdown to HTML](https://dailytoolkit.app/tools/markdown-to-html) - Convert Markdown to clean HTML.
 - [Meta Tag Generator](https://dailytoolkit.app/tools/meta-tag-generator) - Generate SEO and Open Graph meta tags.
 - [Nginx Config Generator](https://alltoolsverse.com/tools/nginx-config-generator/) - Generate Nginx server blocks from common configuration options.

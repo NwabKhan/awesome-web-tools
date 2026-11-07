@@ -153,7 +153,8 @@ Tools are selected for practical value, accessibility, and quality — not for p
 
 ## Video Tools
 
-- [Video Size Reducer](https://videosizereducer.org) - Compress MP4 videos by target size or quality preset in the browser.
+- [VideoFetcher](https://videofetcher.net) - Free online video and image downloader with per-platform tools. No install or account needed.
+  - [Video Size Reducer](https://videosizereducer.org) - Compress MP4 videos by target size or quality preset in the browser.
 
 ## Generators
 

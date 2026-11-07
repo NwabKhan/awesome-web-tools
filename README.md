@@ -131,6 +131,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 
 ## Image Tools
 
+- [ASCII Images](https://ascii-images.com/image-to-ascii) - Convert images to ASCII artwork with adjustable character sets and TXT or PNG exports.
 - [Blur Background](https://blurbackground.vip) - Automatically blur image backgrounds.
 - [Compress Image to 50KB](https://intabtools.com/image/compress-image-to-50kb) - Compress an image toward a 50 KB target size in the browser.
 - [HEIC to JPG Converter](https://heictojpg.thinkforu.org/) - Convert HEIC images to JPG without signup.

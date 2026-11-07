@@ -167,6 +167,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 - [Pet Names](https://petnames.dog/) - Generate and explore pet and animal name ideas.
 - [QR Code Generator](https://dailytoolkit.app/tools/qr-code-generator) - Create QR codes for URLs, text, and other data.
 - [QR Code Monkey](https://www.qrcode-monkey.com) - Create customizable QR codes with logos and colors.
+- [RandomGeneratr NPC Generator](https://randomgeneratr.com/npc-generator) - Generate NPC cards with names, roles, motives, flaws, secrets, factions and story hooks.
 - [README Generator](https://dailytoolkit.app/tools/readme-generator) - Build a project README from a guided form.
 - [readme.so](https://readme.so) - Build a project README with a visual editor.
 - [RealFaviconGenerator](https://realfavicongenerator.net) - Generate favicons for multiple platforms and devices.

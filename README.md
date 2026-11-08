@@ -126,6 +126,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 - [CSS Box Shadow Generator](https://dailytoolkit.app/tools/css-box-shadow-generator) - Build CSS box-shadow values with a live preview.
 - [CSS Gradient](https://cssgradient.io) - Create and customize CSS gradients visually.
 - [CSS Gradient Generator](https://dailytoolkit.app/tools/css-gradient-generator) - Generate CSS for gradient-filled text.
+- [Cursive Generation Cursive Generator](https://cursive-generation.com/cursive-generator) - Render text in script fonts with documented PNG, PDF and font-dependent SVG exports.
 - [Haikei](https://haikei.app) - Generate SVG backgrounds, blobs, waves, and other visual assets.
 - [Realtime Colors](https://www.realtimecolors.com) - Preview color palettes on a live interface mockup.
 

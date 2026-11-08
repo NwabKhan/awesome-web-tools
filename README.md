@@ -119,6 +119,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 
 ## Design
 
+- [Calculation Hub Luminance & Brightness](https://calculation-hub.com/colors/luminance-brightness) - Compare relative luminance, HSP brightness, luma, and two-color contrast.
 - [Color Converter](https://dailytoolkit.app/tools/color-converter) - Convert colors between HEX, RGB, HSL, and other formats.
 - [Color Hunt](https://colorhunt.co) - Browse curated color palette inspiration.
 - [Color Palette Generator](https://dailytoolkit.app/tools/color-palette-generator) - Generate and export color palettes.

@@ -44,6 +44,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 
 - [API Status Badges](https://apistatuscheck.com/badges) - Create live SVG status badges for supported APIs.
 - [Base64 Encoder / Decoder](https://dailytoolkit.app/tools/base64-encoder) - Encode and decode text or files to and from Base64.
+- [Bethemesh Workspace](https://bethemesh.com/en/workspace) - Build reusable file and data transformation pipelines directly in the browser.
 - [crontab.guru](https://crontab.guru) - Build and understand cron schedule expressions.
 - [CSV Preflight](https://softpeanut.github.io/csv-preflight/) - Check CSV structure and download normalized output locally.
 - [Developer Tools](https://tools.merrt.com.tr) - Use browser-based JSON, XML, YAML, JWT, diff, hash, and related utilities.

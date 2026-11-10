@@ -39,6 +39,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 - [Textbench](https://textbench.app) - Use text cleanup, conversion, encoding, hashing, and generator tools in one page.
 - [Webdings Translator](https://typegleam.com/webdings-translator/) - Convert text to and from Webdings-style Unicode symbols.
 - [Word Counter](https://dailytoolkit.app/tools/word-counter) - Analyze word, character, sentence, paragraph, and reading-time counts.
+- [BetterPDF Convert](https://betterpdfconvert.com/) - Free browser-based EPUB, AZW3, and MOBI to PDF converter preserving clickable Table of Contents without login or file uploads.
 
 ## Developer Tools
 

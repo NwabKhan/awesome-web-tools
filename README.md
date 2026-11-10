@@ -153,6 +153,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 
 ## Video Tools
 
+- [Text Match Cut](https://textmatchcut.net/) - Make text match cut videos with one fixed word and export MP4 or WebM up to 1080p.
 - [Video Size Reducer](https://videosizereducer.org) - Compress MP4 videos by target size or quality preset in the browser.
 
 ## Generators

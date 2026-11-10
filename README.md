@@ -22,6 +22,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 ## Text Tools
 
 - [Ambigram Generator](https://intabtools.com/text/ambigram-generator) - Convert text into Unicode characters that read the same when rotated 180 degrees.
+- [Bulk OCR](https://www.toolkitzen.com/tools/bulk-ocr) - Extract text from multiple printed-note images in the browser and export TXT or JSON.
 - [Character Counter](https://dailytoolkit.app/tools/character-counter) - Count characters with and without spaces in real time.
 - [Convert Case](https://convertcase.net) - Convert text between upper, lower, title, sentence, and other cases.
 - [Diffchecker](https://www.diffchecker.com) - Compare two texts and highlight their differences.

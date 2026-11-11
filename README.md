@@ -127,6 +127,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 - [CSS Gradient](https://cssgradient.io) - Create and customize CSS gradients visually.
 - [CSS Gradient Generator](https://dailytoolkit.app/tools/css-gradient-generator) - Generate CSS for gradient-filled text.
 - [Haikei](https://haikei.app) - Generate SVG backgrounds, blobs, waves, and other visual assets.
+- [Onlineruler](https://onlineruler.app/) - Free 1:1 on-screen ruler for measuring in the browser at actual size.
 - [Realtime Colors](https://www.realtimecolors.com) - Preview color palettes on a live interface mockup.
 
 ## Image Tools

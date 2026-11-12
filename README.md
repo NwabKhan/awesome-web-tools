@@ -44,6 +44,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 
 - [API Status Badges](https://apistatuscheck.com/badges) - Create live SVG status badges for supported APIs.
 - [Base64 Encoder / Decoder](https://dailytoolkit.app/tools/base64-encoder) - Encode and decode text or files to and from Base64.
+- [CraftSprint](https://www.craftsprint.io/category/developer-tools) - Free browser-based developer utilities for everyday development tasks.
 - [crontab.guru](https://crontab.guru) - Build and understand cron schedule expressions.
 - [CSV Preflight](https://softpeanut.github.io/csv-preflight/) - Check CSV structure and download normalized output locally.
 - [Developer Tools](https://tools.merrt.com.tr) - Use browser-based JSON, XML, YAML, JWT, diff, hash, and related utilities.
@@ -64,7 +65,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 - [regex101](https://regex101.com) - Build, test, and debug regular expressions with explanations.
 - [SQL Formatter](https://dailytoolkit.app/tools/sql-formatter) - Format and beautify SQL queries with syntax highlighting.
 - [Unix Timestamp Converter](https://dailytoolkit.app/tools/unix-timestamp-converter) - Convert Unix timestamps to dates and dates back to timestamps.
-- [URL Encoder / Decoder](https://dailytoolkit.app/tools/url-encoder) - Encode and decode URL components and query strings. CraftSprint - Free browser-based developer tools for JSON, regex, code minification, and everyday development tasks.
+- [URL Encoder / Decoder](https://dailytoolkit.app/tools/url-encoder) - Encode and decode URL components and query strings.
 - [User Agent Parser](https://superhubutils.netlify.app/dev/user-agent-parser) - Parse a user agent string into browser, OS, and device details.
 - [UUID Generator](https://dailytoolkit.app/tools/uuid-generator) - Generate UUID v4 values individually or in bulk.
 

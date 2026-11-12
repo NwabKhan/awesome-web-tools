@@ -59,6 +59,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 - [jwt.io](https://jwt.io) - Decode, verify, and generate JSON Web Tokens.
 - [Markdown to HTML](https://dailytoolkit.app/tools/markdown-to-html) - Convert Markdown to clean HTML.
 - [Meta Tag Generator](https://dailytoolkit.app/tools/meta-tag-generator) - Generate SEO and Open Graph meta tags.
+- [MySafeInfo CSV Join](https://mysafeinfo.com/tools/csv-join) - Join CSV files by matching keys and inspect unmatched rows and duplicate keys locally in the browser.
 - [Nginx Config Generator](https://alltoolsverse.com/tools/nginx-config-generator/) - Generate Nginx server blocks from common configuration options.
 - [Nutilz](https://nutilz.com) - Use browser-based utilities for text, development, calculators, design, and generators.
 - [regex101](https://regex101.com) - Build, test, and debug regular expressions with explanations.

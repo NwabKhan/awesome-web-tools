@@ -132,6 +132,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 ## Image Tools
 
 - [Blur Background](https://blurbackground.vip) - Automatically blur image backgrounds.
+- [Benchmo](https://benchmo.com/) - Free browser tools for images, PDFs, QR and barcodes, UTM links, and calculators. No sign-up; files stay on the device.
 - [Compress Image to 50KB](https://intabtools.com/image/compress-image-to-50kb) - Compress an image toward a 50 KB target size in the browser.
 - [HEIC to JPG Converter](https://heictojpg.thinkforu.org/) - Convert HEIC images to JPG without signup.
 - [Image Compressor](https://dailytoolkit.app/tools/image-compressor) - Compress JPG, PNG, and WebP images in the browser.

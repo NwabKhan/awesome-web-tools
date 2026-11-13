@@ -148,6 +148,8 @@ Tools are selected for practical value, accessibility, and quality — not for p
 - [Squoosh](https://squoosh.app) - Compress and compare images in the browser.
 - [TinyPNG](https://tinypng.com) - Compress PNG and JPEG images.
 - [ToolSuite Image Compressor](https://toolsuite.fit/tools/image-compressor) - Compress and convert JPEG, PNG, and WebP images in the browser.
+- [Trencada HEIC to JPG Converter](https://trencada.com/tools/heic-to-jpg/) - Batch convert iPhone HEIC and AVIF photos to standard JPG or PNG locally in the browser.
+- [Trencada Image Resizer](https://trencada.com/tools/image-resizer-online/) - Resize images to exact pixel or millimeter dimensions at 300 DPI without watermarks.
 - [UnHEIC](https://unheic.io/) - Convert HEIC and HEIF files to JPG, PNG, PDF, or WebP.
 - [WebP Converter](https://dailytoolkit.app/tools/webp-converter) - Convert images to and from WebP.
 
@@ -170,6 +172,8 @@ Tools are selected for practical value, accessibility, and quality — not for p
 - [README Generator](https://dailytoolkit.app/tools/readme-generator) - Build a project README from a guided form.
 - [readme.so](https://readme.so) - Build a project README with a visual editor.
 - [RealFaviconGenerator](https://realfavicongenerator.net) - Generate favicons for multiple platforms and devices.
+- [Trencada Free PDF Invoice Generator](https://trencada.com/tools/invoice-generator/) - Create and download clean, watermark-free B2B PDF invoices directly in your browser.
+- [Trencada Static QR Code Generator](https://trencada.com/tools/qr-generator/) - Generate permanent, non-expiring static QR codes for URLs, Wi-Fi, and vCards in PNG or SVG.
 - [Vedic Astrology Chart](https://vedicastrologychart.net) - Generate a Vedic birth chart from date, time, and place.
 - [WizGenerator Story Generator](https://wizgenerator.com/tools/story-generator/) - Generate customizable stories from genre, tone, characters, and plot details.
 

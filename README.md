@@ -160,6 +160,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 - [Bitwarden Password Generator](https://bitwarden.com/password-generator) - Generate strong passwords and passphrases.
 - [Coded Message Generator](https://www.appergo.com/en/online-tools/codes/coded-message-generator/index.html) - Create an encoded message together with its explained solution.
 - [Favicon.io](https://favicon.io) - Generate favicons from text, images, or emoji.
+- [FORM / FIGURE](https://form-figure-tilbudsbygger-88i3yq.v2.appdeploy.ai/) - Build Norwegian-language client quotes with scope, VAT, hourly-rate checks, and PDF export.
 - [Hashtag Generator](https://dailytoolkit.app/tools/hashtag-generator) - Generate hashtags for social posts.
 - [Lorem Ipsum Generator](https://dailytoolkit.app/tools/lorem-ipsum-generator) - Generate placeholder lorem ipsum text.
 - [Naratake WiFi QR Code Generator](https://naratake.com/en/tools/wifi-qr-code-generator) - Generate a scannable Wi-Fi QR code locally in the browser.

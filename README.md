@@ -49,6 +49,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 - [Developer Tools](https://tools.merrt.com.tr) - Use browser-based JSON, XML, YAML, JWT, diff, hash, and related utilities.
 - [DevScratchpad](https://devscratchpad.tech) - Use a client-side developer utility suite with no data collection.
 - [Epoch Converter](https://www.epochconverter.com) - Convert Unix timestamps to readable dates.
+- [FrameTest](https://frametest.net/) - Measure browser animation FPS and frame times with adjustable workload and motion comparisons.
 - [Hardware Test Tools](https://hardware-test.uwarp.design/) - Test webcam, microphone, keyboard, mouse, and display hardware.
 - [HTML to Markdown](https://dailytoolkit.app/tools/html-to-markdown) - Convert HTML to clean Markdown.
 - [JieBang Tools](https://jiebang.site) - Use browser-based developer utilities for formatting, encoding, hashing, JWTs, cron, and more.

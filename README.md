@@ -51,6 +51,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 - [Epoch Converter](https://www.epochconverter.com) - Convert Unix timestamps to readable dates.
 - [Hardware Test Tools](https://hardware-test.uwarp.design/) - Test webcam, microphone, keyboard, mouse, and display hardware.
 - [HTML to Markdown](https://dailytoolkit.app/tools/html-to-markdown) - Convert HTML to clean Markdown.
+- [icodelab Tools](https://icodelab.dev/en/tools) - Use browser-based regex, cron, Unix timestamp, code formatter, PDF, and image utilities.
 - [JieBang Tools](https://jiebang.site) - Use browser-based developer utilities for formatting, encoding, hashing, JWTs, cron, and more.
 - [JSON Formatter](https://dailytoolkit.app/tools/json-formatter) - Format, validate, and minify JSON with syntax highlighting.
 - [JSONLint](https://jsonlint.com) - Validate and format JSON with error reporting.

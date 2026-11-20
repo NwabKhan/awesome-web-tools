@@ -133,6 +133,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 
 - [Blur Background](https://blurbackground.vip) - Automatically blur image backgrounds.
 - [Compress Image to 50KB](https://intabtools.com/image/compress-image-to-50kb) - Compress an image toward a 50 KB target size in the browser.
+- [ExifStudio](https://www.exifstudio.online) - View, edit, and strip photo EXIF/GPS metadata, convert HEIC images, and remove PDF metadata locally in the browser.
 - [HEIC to JPG Converter](https://heictojpg.thinkforu.org/) - Convert HEIC images to JPG without signup.
 - [Image Compressor](https://dailytoolkit.app/tools/image-compressor) - Compress JPG, PNG, and WebP images in the browser.
 - [Image Cropper](https://dailytoolkit.app/tools/image-cropper) - Crop images to custom sizes and aspect ratios.

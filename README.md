@@ -128,6 +128,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 - [CSS Gradient Generator](https://dailytoolkit.app/tools/css-gradient-generator) - Generate CSS for gradient-filled text.
 - [Haikei](https://haikei.app) - Generate SVG backgrounds, blobs, waves, and other visual assets.
 - [Realtime Colors](https://www.realtimecolors.com) - Preview color palettes on a live interface mockup.
+- [StagePeek](https://stagepeek.live) - Explore interactive 3D concert and stadium seat views across 201 venues in the browser.
 
 ## Image Tools
 

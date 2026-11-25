@@ -149,6 +149,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 - [TinyPNG](https://tinypng.com) - Compress PNG and JPEG images.
 - [ToolSuite Image Compressor](https://toolsuite.fit/tools/image-compressor) - Compress and convert JPEG, PNG, and WebP images in the browser.
 - [UnHEIC](https://unheic.io/) - Convert HEIC and HEIF files to JPG, PNG, PDF, or WebP.
+- [WarpImage](https://warpimage.com/image-warper) - Warp and bend images, text, and SVGs into arcs, waves, and 15 other shapes locally in the browser.
 - [WebP Converter](https://dailytoolkit.app/tools/webp-converter) - Convert images to and from WebP.
 
 ## Video Tools

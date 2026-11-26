@@ -163,6 +163,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 - [Hashtag Generator](https://dailytoolkit.app/tools/hashtag-generator) - Generate hashtags for social posts.
 - [Lorem Ipsum Generator](https://dailytoolkit.app/tools/lorem-ipsum-generator) - Generate placeholder lorem ipsum text.
 - [Naratake WiFi QR Code Generator](https://naratake.com/en/tools/wifi-qr-code-generator) - Generate a scannable Wi-Fi QR code locally in the browser.
+- [OwnBarcode](https://ownbarcode.com) - Generate 1D/2D retail barcodes and thermal labels client-side in the browser.
 - [Password Generator](https://dailytoolkit.app/tools/password-generator) - Generate customizable random passwords.
 - [Pet Names](https://petnames.dog/) - Generate and explore pet and animal name ideas.
 - [QR Code Generator](https://dailytoolkit.app/tools/qr-code-generator) - Create QR codes for URLs, text, and other data.

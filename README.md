@@ -170,6 +170,7 @@ Tools are selected for practical value, accessibility, and quality — not for p
 - [README Generator](https://dailytoolkit.app/tools/readme-generator) - Build a project README from a guided form.
 - [readme.so](https://readme.so) - Build a project README with a visual editor.
 - [RealFaviconGenerator](https://realfavicongenerator.net) - Generate favicons for multiple platforms and devices.
+- [Two Week Notice Template](https://2weeknoticetemplate.com/) - Generate a clean, customizable two-week notice resignation letter directly in the browser.
 - [Vedic Astrology Chart](https://vedicastrologychart.net) - Generate a Vedic birth chart from date, time, and place.
 - [WizGenerator Story Generator](https://wizgenerator.com/tools/story-generator/) - Generate customizable stories from genre, tone, characters, and plot details.
 
